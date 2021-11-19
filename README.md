@@ -69,3 +69,15 @@ https://fs21.sstrge.online/remote_control.php?file=B64YTo0OntzOjQ6InRpbWUiO2k6MT
 
 #EXTINF:-1 tvg-logo="https://i1.wp.com/filmesongratis.com/wp-content/uploads/2021/09/Pantera-Negra-214x300.jpg" group-title="Filmes", Pantera Negra (Dublado)
 https://fs19.sstrge.online/remote_control.php?file=B64YTo0OntzOjQ6InRpbWUiO2k6MTYzNzM0NjQxODtzOjU6ImxpbWl0IjtpOjA7czo0OiJmaWxlIjtzOjM3OiIvdmlkZW9zLzUwOTAwMC81MDk0MjgvNTA5NDI4XzM2MHAubXA0IjtzOjI6ImN2IjtzOjMyOiJkMTA1YmI0NDI4MTdjYzM3OWM1ZmY1YmYwZWMzYTYyZSI7fQ%3D%3D
+
+#EXTINF:-1 tvg-logo="https://i1.wp.com/filmesongratis.com/wp-content/uploads/2021/09/Frozen-2-214x300.jpg" group-title="Animação", Frozen 2
+https://casia.evosrv.com/EvoStreams/ORrHF6HQRHSkwDlO9y9A.mp4.mp4?md5=_ipYWsinhgwOINRn-fgNkQ&expires=1637360317
+
+#EXTINF:-1 tvg-logo="https://i1.wp.com/filmesongratis.com/wp-content/uploads/2021/09/Frozen-2-214x300.jpg" group-title="Animação", Frozen Uma Aventura Congelante
+https://casia.evosrv.com/EvoStreams/ehnnxhcAD5eSMzPstupw.mp4.mp4?md5=ILoX1WGoX3QzOJqQkrUXTw&expires=1637360475
+
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMTg2MTMyMzU0M15BMl5BanBnXkFtZTgwOTU3ODk4NTE@._V1_.jpg" group-title="Animação", Minions
+https://luma.evosrv.com/EvoSrv/z9zqVw6n3ZzcocE0rPVp.mp4?md5=GWZuw5otQzqgmOwoAsXh0Q&expires=1637360728
+
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMTcxODgwMDkxNV5BMl5BanBnXkFtZTYwMDk2MDg3._V1_.jpg" group-title="Filmes", Harry Potter e a Câmara Secreta
+https://casia.evosrv.com/EvoSrv/8gTzIMN43TpX5yCLNSmM.mp4?md5=NRMIcALPR5-AbiCRvQkZYw&expires=1637361352
