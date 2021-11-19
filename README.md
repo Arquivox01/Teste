@@ -30,3 +30,12 @@ https://talia.evosrv.com/EvoStreams/6EzTU2QBsJndIsaVx0Oa.mp4.mp4?md5=h-XJ5D2OlKN
 
 #EXTINF:-1 tvg-logo="https://i1.wp.com/filmesongratis.com/wp-content/uploads/2021/08/Free-Guy-2021-214x300.jpg" group-title="Lançamentos", Free Guy (Dublado) (2021)
 https://fs23.sstrge.online/remote_control.php?file=B64YTo0OntzOjQ6InRpbWUiO2k6MTYzNzMzNTk4ODtzOjU6ImxpbWl0IjtpOjA7czo0OiJmaWxlIjtzOjM3OiIvdmlkZW9zLzUxNzAwMC81MTc0MzAvNTE3NDMwXzM2MHAubXA0IjtzOjI6ImN2IjtzOjMyOiI3MTdlOTcyNjBjMGZhZTk4MGE4NjQ2NGVhMzQ5MTZkMiI7fQ%3D%3D
+
+#EXTINF:-1 tvg-logo="https://i1.wp.com/filmesongratis.com/wp-content/uploads/2021/08/Candyman.2021-214x300.jpg" group-title="Lançamentos", A Lenda de Candyman (Dublado) (2021)
+https://2371755320.tapecontent.net/radosgw/PqwwAX00K8UGJg/OIJwE65uSyg6ZHuEZurKOCTRuf7O8ZKSYMcLk-eupXohSKzRT1vpOUPuSm6y3iYl6BJXRX7Ayq70Jd06R2zSEZiivnhKkHVa4LYWWOPH35v-k9I3Q6a1SRmK5MCv44HceM9mkO8Tz4VKtQQ7dwIHtZnx9L9wxgB1SXlNfF-Bq513FLwQrPv-xe56PShOTiymqKFPU12Wlc2Ct_ZzYkNFGLqSDr_lHrKGBBgzXExEgBAMDGrSYFhMr71QhwQ8KB9_4GjH9wWgK7PCQYo-h3E4vT81gw57pig_GZT3ptIOQ9AvPfe_wvLK-DQqoqBTngU3ODK00KiqyWs0Nk2g/FILMESONGRATIS.COM+-+A+Lenda+de+Candyman+2021.mkv.mp4?stream=1
+
+#EXTINF:-1 tvg-logo="https://i1.wp.com/filmesongratis.com/wp-content/uploads/2021/08/Vingadores-Guerra-Infinita-214x300.jpg" group-title="Filmes", Vingadores: Guerra Infinita (Dublado)
+https://fs21.sstrge.online/remote_control.php?file=B64YTo0OntzOjQ6InRpbWUiO2k6MTYzNzMzNzA2NjtzOjU6ImxpbWl0IjtpOjA7czo0OiJmaWxlIjtzOjM3OiIvdmlkZW9zLzUwNTAwMC81MDU5MzQvNTA1OTM0XzM2MHAubXA0IjtzOjI6ImN2IjtzOjMyOiI0Y2Y3OGFhMGI3NGRkN2RmZjI3OGZkNDZjZWIwYzM1OSI7fQ%3D%3D
+
+#EXTINF:-1 tvg-logo="https://i1.wp.com/filmesongratis.com/wp-content/uploads/2021/11/A-Mumia-2017-214x300.jpg" group-title="Filmes", A Múmia (2017)
+https://2371821717.tapecontent.net/radosgw/ZrRg3AV2LRIqb0y/7KkkFOw9bW52yhfPn3SMvZzUieyMI9gcawXKqCuqwRVB3jR-0WmqmIab27SWcNeGcowYY8XMdmlLslDVJg8JJo636kDVBzciM_SyXwHMszS6iVBj-IOgkEJHa1tgWjdXKFjDSiloUE8I9JHcu_VV7qSpMO37tOv7BETJZiBq0LrPOiLEpaS-svUnBLwzkI3YFhTHRmoLpkYqoUAe1UlJb---U1DNCX0OXzhQT5J9S0dSdT0u2I-2lyT0g_S-6G_lUpFTuF68WqukLFalUBhFgBeGHUAfA1biIeitljIowadFgjblS0RslJd1UEw/FILMESONGRATIS.COM+-+A.M%C3%BAmia.2017.mp4?stream=1
