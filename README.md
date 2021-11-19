@@ -57,3 +57,15 @@ https://2565136268.tapecontent.net/radosgw/2qly0p1GjJSZg2y/tWuh6OE5QeeC4Eyq4WVIm
 
 #EXTINF:-1 tvg-logo="https://i1.wp.com/filmesongratis.com/wp-content/uploads/2021/11/Amor-a-Tres-2021-214x300.jpg" group-title="Filmes", Amor a Três (2021)
 https://fs23.sstrge.online/remote_control.php?file=B64YTo0OntzOjQ6InRpbWUiO2k6MTYzNzM0NTYzOTtzOjU6ImxpbWl0IjtpOjA7czo0OiJmaWxlIjtzOjM3OiIvdmlkZW9zLzUzOTAwMC81Mzk5MDgvNTM5OTA4XzM2MHAubXA0IjtzOjI6ImN2IjtzOjMyOiIyOGZhMmViMTUwZjk2M2RmYWZlNTkzZjkzNjM5YjhlOCI7fQ%3D%3D
+
+#EXTINF:-1 tvg-logo="https://i1.wp.com/filmesongratis.com/wp-content/uploads/2021/10/Um-Principe-em-Nova-York-2-2021-214x300.jpg" group-title="Filmes", Um Príncipe em Nova York 2 (2021)
+https://908471838.tapecontent.net/radosgw/vLPzDR3jpgh466R/5aXobYgu-Fe-h3eK1pRJ6i7V51TWXjKu78ht-ApyORIw9ks-L45B5jpB8T3kJcPQK6O7V8NA0IqwVErl8gYxO2GEHaimm59uZa5pAyuqTTI70AOI0pKaL-A0bPc6hn_l1lEoHJmCjh_QpKsKKQFrOn3ckTdhnd61Iv03c38GFp4bnDaGhiXALMwTDAPCRcp_oDmU2hDOETqFcUrSjydzb5cYUyrh7zl7EFOwkjRQSPbTcURa0_9vzwAYVNkfsVWd6CO4m7VvPODHKkYf-Z37ol-sqJtu5R-BjT5WI-oGEBFtFnnMDZATZVSv1CxLO_93l2WbFBvDUiMXtIq2eqwRkVN4bAT75I9tA8QUzA/FILMESONGRATIS.COM+-+Um.Pr%C3%ADncipe.em.Nova.York.2.2021.mkv.mp4?stream=1
+
+#EXTINF:-1 tvg-logo="https://i1.wp.com/filmesongratis.com/wp-content/uploads/2021/10/Um-Principe-em-Nova-York-1988-214x300.jpg" group-title="Filmes", Um Príncipe em Nova York (1988)
+https://fs3.sstrge.online/remote_control.php?file=B64YTo0OntzOjQ6InRpbWUiO2k6MTYzNzM0NjEwNztzOjU6ImxpbWl0IjtpOjA7czo0OiJmaWxlIjtzOjM3OiIvdmlkZW9zLzUyMDAwMC81MjAwNDAvNTIwMDQwXzM2MHAubXA0IjtzOjI6ImN2IjtzOjMyOiIyNjE5NWI4ZmJlNjQxYjViNjRjMTNkMWY4YmQ2YWUyYSI7fQ%3D%3D
+
+#EXTINF:-1 tvg-logo="https://i1.wp.com/filmesongratis.com/wp-content/uploads/2021/09/Aladdin-2019-214x300.jpg" group-title="Filmes", Aladdin (2019)
+https://fs21.sstrge.online/remote_control.php?file=B64YTo0OntzOjQ6InRpbWUiO2k6MTYzNzM0NjIwMTtzOjU6ImxpbWl0IjtpOjA7czo0OiJmaWxlIjtzOjM3OiIvdmlkZW9zLzUxNjAwMC81MTY1MDUvNTE2NTA1XzM2MHAubXA0IjtzOjI6ImN2IjtzOjMyOiJlNjFjM2I5YmE0ZGVkNzYwZDgwYzc1MzkzOTljNDcxYyI7fQ%3D%3D
+
+#EXTINF:-1 tvg-logo="https://i1.wp.com/filmesongratis.com/wp-content/uploads/2021/09/Pantera-Negra-214x300.jpg" group-title="Filmes", Pantera Negra (Dublado)
+https://fs19.sstrge.online/remote_control.php?file=B64YTo0OntzOjQ6InRpbWUiO2k6MTYzNzM0NjQxODtzOjU6ImxpbWl0IjtpOjA7czo0OiJmaWxlIjtzOjM3OiIvdmlkZW9zLzUwOTAwMC81MDk0MjgvNTA5NDI4XzM2MHAubXA0IjtzOjI6ImN2IjtzOjMyOiJkMTA1YmI0NDI4MTdjYzM3OWM1ZmY1YmYwZWMzYTYyZSI7fQ%3D%3D
