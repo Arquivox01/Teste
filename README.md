@@ -109,10 +109,6 @@ https://vilea.evosrv.com/EvoStreams/ypO9PgKKjpVr5Vb40tPW.mp4.mp4?md5=DwrxB8rif0d
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BOGUwMjk3YzktNDI0Yy00MzFiLWFjNmEtYTA2ODVjMzNhODhjXkEyXkFqcGdeQXVyOTQ1MDI4MzY@._V1_.jpg" group-title="Romance", After (2019)
 https://snow.evosrv.com/EvoStreams/KIBu7OWzbjnmSBsnZgv8.mp4.mp4?md5=uIukiDZqJnArYzMsGs2Ygw&expires=1637366995
 
-#EXTINF:-1 tvg-logo="https://i1.wp.com/filmesongratis.com/wp-content/uploads/2021/11/Para-Todos-os-Garotos-que-Ja-Amei-2018-214x300.jpg" group-
-title="Romance", Para Todos os Garotos que Já Amei (2018)
-https://fs16.sstrge.online/remote_control.php?file=B64YTo0OntzOjQ6InRpbWUiO2k6MTYzNzM1NTI2OTtzOjU6ImxpbWl0IjtpOjA7czo0OiJmaWxlIjtzOjM3OiIvdmlkZW9zLzUzNDAwMC81MzQyMzUvNTM0MjM1XzM2MHAubXA0IjtzOjI6ImN2IjtzOjMyOiI1MzEwYjZhMzNiNmM0YWI3ZmUwZmNmZjM3NDY1Yjk0MCI7fQ%3D%3D
-
 #EXTINF:-1 tvg-logo="https://i1.wp.com/filmesongratis.com/wp-content/uploads/2021/11/Titanic-1997-214x300.jpg" group-title="Romance", Titanic (1997)
 https://861634696.tapecontent.net/radosgw/84LMpLLokzUjmL/wR74OC9mtfnCebKw25alFsSFT2riUtCfsQc2kSNL_xWYtT6vF9HLN11n08KWidqNqA4qY8ZOAelUxmn8VXE7-7UCwTbTDOoa_8WqR2oIU3DAkFD9plu758iWvPB24eapYV4_JCbCfwGpDJvLyM4A8EOuHn2zOfuf7OcqW6dp4fVHKbuJrfvjNe371fdVp8Gzl-qBCtF-xpbfz6Gt4zOe6LEHMdv8I6hMqTxDknt7HA84pyrrkmFoN2fcmBHg83yr8i2yTRFyepn-CQdAPzESXcdQKaMwthFJnGddnL4UsSz2LMYfRTWZGd7hLvaVqvZnOcHUMGcOQQx-FMNm/FILMESONGRATIS.COM+-+Titanic+%281997%29.mp4?stream=1
 
@@ -158,3 +154,5 @@ https://908371221.tapecontent.net/radosgw/QD8oBk3ajgskg8/Zwas0HGRz1oc9wW_sVv0hWk
 #EXTINF:-1 tvg-logo="https://i1.wp.com/filmesongratis.com/wp-content/uploads/2021/11/Resident-Evil-O-Hospede-Maldito-2002-214x300.jpg" group-title="Terror", Resident Evil – O Hóspede Maldito (2002)
 https://872373798.tapecontent.net/radosgw/B7axY3GRy8Uy1oz/t9chNW_RgY01OtNsd5LjeU7F6b-rbRAM6_Cq00OPkY3RDJYKzM_wVQ0V9eilsM_wEDv_eQ3vumj7wuWHkJVWPk5X3SdJBKDjFIsMeIQMONYk1_69I2iW6TcB18hTasjuSryjnVbV3XVgCJRoMqtgPEEyM7-obDlf7v8QBsvcX17FkCzFnw-08jwIvM2bAKhlTfXLvMXrLfRj8Xf8msoFzkNv78bpg6MhJ2pE_xcGNvl1vfB1KJL0eoRf-wWPMbbfize8um8w8-hznO6inalbA3TV0maL36M7B9NL7I1c8F5isiAu8GRjOLfFWYgPcgkhIv9qCklUJ87VJce2H7Hsz3F4VxZe_2k-vJH3ow/FILMESONGRATIS.COM+-+Resident+Evil+1+-+O+H%C3%B3spede+Maldito.mp4?stream=1
 
+#EXTINF:-1 tvg-logo="https://i1.wp.com/filmesongratis.com/wp-content/uploads/2021/11/Para-Todos-os-Garotos-que-Ja-Amei-2018-214x300.jpg" group-title="Romance", Para Todos os Garotos que Já Amei (2018)
+https://bit.ly/3ctr6eH
