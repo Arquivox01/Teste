@@ -99,3 +99,13 @@ https://908357237.tapecontent.net/radosgw/XBqMaMo111HZve/ZFrhW3S67CpAUN1FdQxQxji
 
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BYjhiMGRiNzYtOGU5ZS00M2NjLWEyY2QtNmFkMTU4YTJjYjJmXkEyXkFqcGdeQXVyOTQxNzM2MjY@._V1_.jpg" group-title="Filmes", Harry Potter e as Relíquias da Morte: Parte 2
 https://861138007.tapecontent.net/radosgw/yBxM9QQdpBS1Ya9/jtIE8DjpKmC6p3a5BRPWD-1KPQvpBJMuUre2NNy3IIYdfrr8z7bf97aWTpSrymfgE7vyU4hji_acgy_j1qDtKc9GhUEl31xySj3sI-CrZjSlqbhGHN1WJnP0AxZolCxDN_HPBQGipOQcl988I8ONtWK3W7lhrSMc1XmaFLmEa0bM8zUiRsuJZQGHhESv_rEZoTGyS-NZL0oysxIA-jYDb0SE1ZgG24vPnPRy3zk0L2XgvtN_33u6t_R-S74XJX9yAHucctO-TSu0z0kVKzv2uaPGrVi7hpBY44veOF_HRv8NU-sBZj6yIyiXUwexk7wnO88itoVW5J-JLue-HSkzg0VOxeFl7dgok3kV-A/FILMESONGRATIS.COM+-+Harry+Potter+e+as+Rel%C3%ADquias+da+Morte+-+Parte+2+%282010%29.mp4?stream=1
+
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BNGNiNWQ5M2MtNGI0OC00MDA2LWI5NzEtMmZiYjVjMDEyOWYzXkEyXkFqcGdeQXVyMjM4NTM5NDY@._V1_.jpg" group-title="Romance", A Forma da Água
+https://antica.evosrv.com/EvoSrv/L2jiAeYuWQb0SX10VEHX.mp4?md5=XBMYBPZM4bA_4C9kf3Sn8A&expires=1637366510
+
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMTYxOTQ1MzI0Nl5BMl5BanBnXkFtZTgwMzgwMzIxNDM@._V1_.jpg" group-title="Romance", Cinquenta Tons de Liberdade
+https://vilea.evosrv.com/EvoStreams/ypO9PgKKjpVr5Vb40tPW.mp4.mp4?md5=DwrxB8rif0dG1hWJ_8Ztug&expires=1637366769
+
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BOGUwMjk3YzktNDI0Yy00MzFiLWFjNmEtYTA2ODVjMzNhODhjXkEyXkFqcGdeQXVyOTQ1MDI4MzY@._V1_.jpg" group-title="Romance", After (2019)
+https://snow.evosrv.com/EvoStreams/KIBu7OWzbjnmSBsnZgv8.mp4.mp4?md5=uIukiDZqJnArYzMsGs2Ygw&expires=1637366995
+
