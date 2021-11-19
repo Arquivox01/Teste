@@ -109,3 +109,6 @@ https://vilea.evosrv.com/EvoStreams/ypO9PgKKjpVr5Vb40tPW.mp4.mp4?md5=DwrxB8rif0d
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BOGUwMjk3YzktNDI0Yy00MzFiLWFjNmEtYTA2ODVjMzNhODhjXkEyXkFqcGdeQXVyOTQ1MDI4MzY@._V1_.jpg" group-title="Romance", After (2019)
 https://snow.evosrv.com/EvoStreams/KIBu7OWzbjnmSBsnZgv8.mp4.mp4?md5=uIukiDZqJnArYzMsGs2Ygw&expires=1637366995
 
+#EXTINF:-1 tvg-logo="https://i1.wp.com/filmesongratis.com/wp-content/uploads/2021/11/Para-Todos-os-Garotos-que-Ja-Amei-2018-214x300.jpg" group-
+title="Romance", Para Todos os Garotos que Já Amei (2018)
+https://fs16.sstrge.online/remote_control.php?file=B64YTo0OntzOjQ6InRpbWUiO2k6MTYzNzM1NTI2OTtzOjU6ImxpbWl0IjtpOjA7czo0OiJmaWxlIjtzOjM3OiIvdmlkZW9zLzUzNDAwMC81MzQyMzUvNTM0MjM1XzM2MHAubXA0IjtzOjI6ImN2IjtzOjMyOiI1MzEwYjZhMzNiNmM0YWI3ZmUwZmNmZjM3NDY1Yjk0MCI7fQ%3D%3D
