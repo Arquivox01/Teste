@@ -6,3 +6,10 @@ https://858143365.tapecontent.net/radosgw/dQMW7RgDK4ckYgx/o4r9bB0xalWiIgFPoaGwyr
 
 #EXTINF:-1 tvg-logo="https://i1.wp.com/filmesongratis.com/wp-content/uploads/2021/09/shang-214x300.jpg" group-title="Lançamentos", Shang-Chi e a Lenda dos Dez Anéis (2021)
 https://908344487.tapecontent.net/radosgw/Xxx1x3aX4lCD9AG/jHMTSCqyLiZ-SdAQqLWNaTh5JwgTHFm5FAFr2hftIhJf3anvRSyujc2LAizapXrPeedQIxZlpBKE20sdBQAGHD-wTDZz0krUTHt2HVZSxCRBBfkkLakfwYDezd4wZFWhACW9S79TxegtjcFcirVVYQNlZVkmDSh844O89XUGCc_N_c7paPUrXTeRdoPM1Tn2tKRtWWn3FTJCDkM1Mx27OK1nCfVYg-RRVUhxADMlIvnRu5tgEi_bvzpuJfVGhUMNDyUQgvh2eGVdmSha0G_k4ovK295T_mjuCoDCPm7bzRWRAwvDyNBmHXfJX4NpEcZiB3Zw9jb9UoRf5Q5kl1PIm3p8JSndHh9Wk3r4Ag/FILMESONGRATIS.COM+-+Shang-Chi+e+a+Lenda+dos+Dez+An%C3%A9is+2021.mkv.mp4?stream=1
+
+#EXTINF:-1 tvg-logo="https://i1.wp.com/filmesongratis.com/wp-content/uploads/2021/08/Escape-Room-2-Tensao-Maxima-214x300.jpg" group-title="Lançamentos", Escape Room 2 – Tensão Máxima
+https://860615386.tapecontent.net/radosgw/mgWkp7XXzeub8b0/OOzrHJlulOjP6D_bcxSDXNW13yEknvht_9ryUAyh_Ln0OOVs6chgGDA2EdHozX_2fgD1XI5GGPRw4FChx1TMTug9BudZALJwiO0OCUfGMUz0TEA_KuxuzUGrCf3H8tysVSnZKVQhQLLHPcRA4--korYQ_Z3aZzYryy7I1Njt3Op8efIfhg_OYuNlE9tU3vlvMlifWVQhVl_6GEvrVrQ1RuuPtDpjMHbbKwTQxtV6CewpDcJL7D2PsSaLa0KzmV0tGFYwnPMmq0Kuwe5CASqSE1sKkMv8-DuUouVHkb4SroBYeeSWwm4gx6AaaEa-227o2h_WpgTBqktnn3htmgMqcWEDLYDB7any51S3rV_9dlhAolIrRCkd1XGD5xA/FILMESONGRATIS.COM+-+Escape+Room+2-+Tens%C3%A3o+Maxima+VERS%C3%83O+ESTENDIDA+2021.mkv.mp4?stream=1
+
+#EXTINF:-1 tvg-logo="https://i1.wp.com/filmesongratis.com/wp-content/uploads/2021/08/IMG_3063-214x300.jpg" group-title="Lançamentos", Viúva Negra (2021)
+
+https://fs21.sstrge.online/remote_control.php?file=B64YTo0OntzOjQ6InRpbWUiO2k6MTYzNzMzNDQxNztzOjU6ImxpbWl0IjtpOjA7czo0OiJmaWxlIjtzOjM3OiIvdmlkZW9zLzQ4OTAwMC80ODk5OTgvNDg5OTk4XzM2MHAubXA0IjtzOjI6ImN2IjtzOjMyOiIwMjhiMDdiN2E2NTRmZGJjMDYwMDRhZjY5ODdlYjA0NSI7fQ%3D%3D
