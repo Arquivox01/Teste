@@ -39,3 +39,9 @@ https://fs21.sstrge.online/remote_control.php?file=B64YTo0OntzOjQ6InRpbWUiO2k6MT
 
 #EXTINF:-1 tvg-logo="https://i1.wp.com/filmesongratis.com/wp-content/uploads/2021/11/A-Mumia-2017-214x300.jpg" group-title="Filmes", A Múmia (2017)
 https://2371821717.tapecontent.net/radosgw/ZrRg3AV2LRIqb0y/7KkkFOw9bW52yhfPn3SMvZzUieyMI9gcawXKqCuqwRVB3jR-0WmqmIab27SWcNeGcowYY8XMdmlLslDVJg8JJo636kDVBzciM_SyXwHMszS6iVBj-IOgkEJHa1tgWjdXKFjDSiloUE8I9JHcu_VV7qSpMO37tOv7BETJZiBq0LrPOiLEpaS-svUnBLwzkI3YFhTHRmoLpkYqoUAe1UlJb---U1DNCX0OXzhQT5J9S0dSdT0u2I-2lyT0g_S-6G_lUpFTuF68WqukLFalUBhFgBeGHUAfA1biIeitljIowadFgjblS0RslJd1UEw/FILMESONGRATIS.COM+-+A.M%C3%BAmia.2017.mp4?stream=1
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w185/ukR0MkCQE6IylzBPd61txJi1L3E.jpg" group-title="Loki Temporada 1", Episódio 01
+https://bit.ly/3Dz8WDX
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w185/ukR0MkCQE6IylzBPd61txJi1L3E.jpg" group-title="Loki Temporada 1", Episódio 02
+https://rr3---sn-op2cg-nw3e.googlevideo.com/videoplayback?expire=1637370936&ei=uNuXYfOhHIeL8wTqzaT4Cw&ip=167.86.116.130&id=0429feb021ef4f13&itag=18&source=blogger&susc=bl&mime=video/mp4&vprv=1&dur=3192.581&lmt=1623854064821094&txp=1311224&sparams=expire,ei,ip,id,itag,source,susc,mime,vprv,dur,lmt&sig=AOq0QJ8wRgIhAMSNi3ZowpDb5gBvpUQ14sB-VGk9S5XF5w4_EO8To2HhAiEAgvFCqODMuVs6t7BnjKQYBsEQ1BphfTk_rs913sCLl1M%3D&type=video/mp4&title=video&redirect_counter=1&rm=sn-4g5e6d7s&req_id=402097d3c1736e2&cms_redirect=yes&ipbypass=yes&mh=Kz&mip=186.236.82.53&mm=31&mn=sn-op2cg-nw3e&ms=au&mt=1637341750&mv=u&mvi=3&pl=20&lsparams=ipbypass,mh,mip,mm,mn,ms,mv,mvi,pl&lsig=AG3C_xAwRAIgQBWh8H1SvcYIsqMP1Qf5bxbYVty0fUEqTbE8g4ber2wCIEvc90AOeO6Rvkei7HBLi3COu2RnM4DsKXWa8yFXEaGy
