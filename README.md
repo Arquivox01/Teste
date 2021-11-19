@@ -40,3 +40,15 @@ https://fs21.sstrge.online/remote_control.php?file=B64YTo0OntzOjQ6InRpbWUiO2k6MT
 #EXTINF:-1 tvg-logo="https://i1.wp.com/filmesongratis.com/wp-content/uploads/2021/11/A-Mumia-2017-214x300.jpg" group-title="Filmes", A Múmia (2017)
 https://2371821717.tapecontent.net/radosgw/ZrRg3AV2LRIqb0y/7KkkFOw9bW52yhfPn3SMvZzUieyMI9gcawXKqCuqwRVB3jR-0WmqmIab27SWcNeGcowYY8XMdmlLslDVJg8JJo636kDVBzciM_SyXwHMszS6iVBj-IOgkEJHa1tgWjdXKFjDSiloUE8I9JHcu_VV7qSpMO37tOv7BETJZiBq0LrPOiLEpaS-svUnBLwzkI3YFhTHRmoLpkYqoUAe1UlJb---U1DNCX0OXzhQT5J9S0dSdT0u2I-2lyT0g_S-6G_lUpFTuF68WqukLFalUBhFgBeGHUAfA1biIeitljIowadFgjblS0RslJd1UEw/FILMESONGRATIS.COM+-+A.M%C3%BAmia.2017.mp4?stream=1
 
+#EXTINF:-1 tvg-logo="https://i1.wp.com/filmesongratis.com/wp-content/uploads/2021/11/Predador-2-A-Cacada-Continua-Filme-1990-214x300.jpg" group-title="Filmes", Predador 2 – A Caçada Continua (1990)
+https://868418831.tapecontent.net/radosgw/pMMRojzM29slP8/OD8SCIHKGwKuwn9uxoc4fm4Dj4E1UDaWJ32BLEnK4PCttNAaJ-wIRE4Efb-L0EzNuZRcENcpElRNrg056G6Vkab_15Ap8RkAIGpfcmoe4tUXqsr2yjVRfg1UWeEPo4wrcF2u5HXTc6ViAegdsjwwioNyToxOAmLIV1-G39IYVzumDejcB6Z69PmUVWhck-Ot20MTtbsowdaaX6uBfXJIWJyARb4LQyKNGcIHM_QuoZ9p4HRCaMLmSgI_PXEF4M3cMwbIgAU_rjsU8f_ZRR6_SwVuICgH_v1GWaxoB7LtAIZkk2zqUYeFFdq-E2A5C-rFXMNphUqOe0TPkwLCDe6GEZIBTXhERP5GtPm1Rw/FILMESONGRATIS.COM+-+Predador.2.A.Ca%C3%A7ada.Continua.1990.1080p.mkv.mp4?stream=1
+
+#EXTINF:-1 tvg-logo="https://i1.wp.com/filmesongratis.com/wp-content/uploads/2021/10/Alien-vs.-Predador-2-2007-214x300.jpg" group-title="Filmes", Predador 2 – Alien vs. Predador 2 (2007)
+https://fs5.sstrge.online/remote_control.php?file=B64YTo0OntzOjQ6InRpbWUiO2k6MTYzNzM0Mzc2MztzOjU6ImxpbWl0IjtpOjA7czo0OiJmaWxlIjtzOjM3OiIvdmlkZW9zLzUyNzAwMC81Mjc2MTcvNTI3NjE3XzM2MHAubXA0IjtzOjI6ImN2IjtzOjMyOiJlYWY1ZGYwNDQ3NzgxYzhiZWJkYjRlYWE0MTkzYTNkNyI7fQ%3D%3D
+
+#EXTINF:-1 tvg-logo="https://i1.wp.com/filmesongratis.com/wp-content/uploads/2021/10/O-Predador-2018-214x300.jpg" group-title="Filmes", O Predador (2018)
+https://fs17.sstrge.online/remote_control.php?file=B64YTo0OntzOjQ6InRpbWUiO2k6MTYzNzM0Mzk4MjtzOjU6ImxpbWl0IjtpOjA7czo0OiJmaWxlIjtzOjM3OiIvdmlkZW9zLzUyOTAwMC81Mjk2MzcvNTI5NjM3XzM2MHAubXA0IjtzOjI6ImN2IjtzOjMyOiJkOTk0YTQ5ZjgyZGM5OWU4OTFiODViMDVlNDlkMzhjZCI7fQ%3D%3D
+
+#EXTINF:-1 tvg-logo="https://i1.wp.com/filmesongratis.com/wp-content/uploads/2021/11/Rampage-Destruicao-Total-2018-214x300.jpg" group-title="Filmes", Rampage – Destruição Total (2018)
+https://fs14.sstrge.online/remote_control.php?file=B64YTo0OntzOjQ6InRpbWUiO2k6MTYzNzM0NDEwMTtzOjU6ImxpbWl0IjtpOjA7czo0OiJmaWxlIjtzOjM3OiIvdmlkZW9zLzUzMjAwMC81MzIxMDYvNTMyMTA2XzM2MHAubXA0IjtzOjI6ImN2IjtzOjMyOiJhYzIyMGU4YjY4MWY0MDczZWJhODNmMTJmZDVjODA4MiI7fQ%3D%3D
+
