@@ -112,3 +112,49 @@ https://snow.evosrv.com/EvoStreams/KIBu7OWzbjnmSBsnZgv8.mp4.mp4?md5=uIukiDZqJnAr
 #EXTINF:-1 tvg-logo="https://i1.wp.com/filmesongratis.com/wp-content/uploads/2021/11/Para-Todos-os-Garotos-que-Ja-Amei-2018-214x300.jpg" group-
 title="Romance", Para Todos os Garotos que Já Amei (2018)
 https://fs16.sstrge.online/remote_control.php?file=B64YTo0OntzOjQ6InRpbWUiO2k6MTYzNzM1NTI2OTtzOjU6ImxpbWl0IjtpOjA7czo0OiJmaWxlIjtzOjM3OiIvdmlkZW9zLzUzNDAwMC81MzQyMzUvNTM0MjM1XzM2MHAubXA0IjtzOjI6ImN2IjtzOjMyOiI1MzEwYjZhMzNiNmM0YWI3ZmUwZmNmZjM3NDY1Yjk0MCI7fQ%3D%3D
+
+#EXTINF:-1 tvg-logo="https://i1.wp.com/filmesongratis.com/wp-content/uploads/2021/11/Titanic-1997-214x300.jpg" group-title="Romance", Titanic (1997)
+https://861634696.tapecontent.net/radosgw/84LMpLLokzUjmL/wR74OC9mtfnCebKw25alFsSFT2riUtCfsQc2kSNL_xWYtT6vF9HLN11n08KWidqNqA4qY8ZOAelUxmn8VXE7-7UCwTbTDOoa_8WqR2oIU3DAkFD9plu758iWvPB24eapYV4_JCbCfwGpDJvLyM4A8EOuHn2zOfuf7OcqW6dp4fVHKbuJrfvjNe371fdVp8Gzl-qBCtF-xpbfz6Gt4zOe6LEHMdv8I6hMqTxDknt7HA84pyrrkmFoN2fcmBHg83yr8i2yTRFyepn-CQdAPzESXcdQKaMwthFJnGddnL4UsSz2LMYfRTWZGd7hLvaVqvZnOcHUMGcOQQx-FMNm/FILMESONGRATIS.COM+-+Titanic+%281997%29.mp4?stream=1
+
+#EXTINF:-1 tvg-logo="https://i1.wp.com/filmesongratis.com/wp-content/uploads/2021/09/cinderela-214x300.jpg" group-title="Romance", Cinderela (2021)
+https://xaia.evosrv.com/EvoStreams/SNIlZuAxWOQPCGahiSdQ.mp4.mp4?md5=9Ih-y5ho8pKsHP9KmbjrRQ&expires=1637368203
+
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BOGU3NTFmNjYtODc3Ny00MWEzLWI3M2ItZjE3NDgwMTI0MzkzXkEyXkFqcGdeQXVyMTEyMjM2NDc2._V1_.jpg" group-title="Ação e Aventura", Monster Hunter(2021)
+https://vilea.evosrv.com/EvoStreams/utMwGq1cr49LULN3jk8R.mp4.mp4?md5=CwOOCnBwQpu15hutirfzaA&expires=1637368522
+
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BY2ZlNWIxODMtN2YwZi00ZjNmLWIyN2UtZTFkYmZkNDQyNTAyXkEyXkFqcGdeQXVyODkzNTgxMDg@._V1_.jpg" group-title="Ação e Aventura", Mortal Combate (2021)
+https://muna.evosrv.com/EvoSrv/XQxa71Bpfh5Jgo0h8CXG.mp4?md5=RmRns7Vu-qzEY1dC7UtbAg&expires=1637368802
+
+#EXTINF:-1 tvg-logo="https://i1.wp.com/filmesongratis.com/wp-content/uploads/2021/11/Depois-da-Terra-2013-214x300.jpg" group-title="Aventura e Ficção Científica", Depois da Terra (2013)
+https://868419159.tapecontent.net/radosgw/1703oXwO1qfewv1/b10xHE7QaakyrcGw9SFugHV3743Vcx9EFQbkeog5yJTd4MaHp9Bj8FeNrJ3SKF6ouRnmYsLEbp5_UFeAvrzcKl7q_ktycM31QUBRsaqTMffyT23VI0jxrHxK1cz6jQEWc67djg4-8bkXRsLtOasbMXWEU2sVqSor6Ljuq5hd4AWT8S0kkuzQ666RbAOMOcxDC5h_wHYrIjZQ2ImXikDOBQaU3hbUUKj6Na0chtnucvHW2NLDEBsSaw-CGWc28fXG8UdRZ0rXXa-cucCRt9FkHG0urf2ByMkC8dtK732ID5cZTJe2U34OWF6KWFHYofs0Mj5twUyJ3NTpwzUq/FILMESONGRATIS.COM+-+Depois+da+Terra+-+Filme+2013.mp4?stream=1
+
+#EXTINF:-1 tvg-logo="https://i1.wp.com/filmesongratis.com/wp-content/uploads/2021/11/Guerra-dos-Mundos-2005-214x300.jpg" group-title="Aventura e Ficção Científica", Guerra dos Mundos (2005)
+https://860134103.tapecontent.net/radosgw/VWmrkYK1WgIKlQp/Tae_-S_sZLT2Omkuy0qh2CczJ4RnEP0BNfA_7aFjEbEDzJHl0yXYw6YX5lx4hgoCLTfdVVG5RnxweZLmKKgMyXGlSfpkfd0zQJ7URTAfEgnsaJM2hrFrBfYuD9S2_LkbrnDGI9NdPfdBHnHj9h6rcDuKbOXpiqnYw8ND7g5NEMt-QC9a6nG2JHUPF7ZCD3s10PfJhOdS_FgMO2WXHra0Lljpv0gawB9E8j0TuDUNHfvQ965BnpbtVJTuXpqNooPLFMOa24S--tbPw9ogEYdx0fYb1LTD_AyMODhNC0BbcSe2Iq2b9AcHonXLCbpZJdq2Num6sw1ncMViLhit/FILMESONGRATIS.COM+-+Guerra+dos+Mundos.mkv.mp4?stream=1
+
+#EXTINF:-1 tvg-logo="https://i1.wp.com/filmesongratis.com/wp-content/uploads/2021/11/Perdido-Em-marte-2015-214x300.jpg" group-title="Aventura e Ficção Científica", Perdido Em marte (2015)
+https://868418831.tapecontent.net/radosgw/qyLOrB9AjwUKyA/kNBMOK0-JRsAiwYDGdQqtRKuzIpNMQVrye5v6eBhIbOmyAMUM1hUX_szo-Dau7ImtUWtkg63bF46Wd_JEQyBzsGclNptbf9eMKdNANcsKI1Gs0FaFV8sHWdePR1_TdK10PVxJDilrp9DRLlbnBbEPCPDXlhzBJWw2xbs4YOmN0T_DEXk7mnYPnNszJFPygxKKAPw0tG58nS1jc8KnZpsGCJRr6-_NljgwdKO2ASjhTUwKK6Vb9YC81xkFSXSkanhpqCUmohE5XOEd8HgHtlYK4ua6MLLYnExgUvG4YyYOAsJ1j5n6iioBfsA_6E8125yhfE9fHfoU9f5B0eI/FILMESONGRATIS.COM+-+Perdido+Em+marte+%282015%29.mp4?stream=1
+
+#EXTINF:-1 tvg-logo="https://i1.wp.com/filmesongratis.com/wp-content/uploads/2021/11/A-Origem-2010-214x300.jpg" group-title="Aventura e Ficção Científica", A  Origem (2010)
+https://908472157.tapecontent.net/radosgw/XxPmoLj3KXfgv1/BDQO3f0OxIHXq5ZNFDLq0d5i1QVmfyN0DIbQl2-ea2Sx36Qk8L3NaLqtB39xL5qTpLMkyUCrDrUPjeTyewNVr3qI51Jg0M2b0ObC2EDkwJ5bLNK2WKpK3Vjom-GkhhQNO7MTSw45OZILBEQAS7luGHyQm_QMTaRByojL-JTXD3lpd1MisM244T5FQzRKBxj6LNzu1qimswS-lvBoBP-XFXul3hQ5lhPzbW6xss_ObtyQc0uCA2eiXmOdoU1n2DFy7KKgi-AHV7yidmmBjh1KdZIF7b64RylG_pgMgHrbmDHEdi3ilaDjPK-Sa5A/FILMESONGRATIS.COM+-+A+Origem+%282010%29.mp4?stream=1
+
+#EXTINF:-1 tvg-logo="https://i1.wp.com/filmesongratis.com/wp-content/uploads/2021/11/Eu-Sou-a-Lenda-2007-214x300.jpg" group-title="Aventura e Ficção Científica", Eu Sou a Lenda (2007)
+https://2448424524.tapecontent.net/radosgw/AQ89qRR1kbfmlw/hBQDo0KHQjqbZ4BlA5DnefCSmQgjEbBy9op3a-gDiCYkeZGiu4N0qvMEZ7imZlm6TLhBKuu0KoNsl7xQ7bmt0ayh0IMc-msAfQu1Uk_ArWx9_DRYgRWLH1rc0mBZdqzF_SzWZbWWmTpCOKzhswtgT_4GGYKs3o2fVk1qAV6q8sfIIGpN-rwnj2m0NOqc1isgeDKuwIC9r5dobeyJcrRHOP_al0fCJW43iQsdk0lgDzqVGuQ8H2N5cPXnGg-HrOEE_l_wJj_uZ-vaSbBUc_TmEbhVzG7tGptk82jGNHWSUyWWQsLmaOvDwkX0jGP61bUhgcZO66CkVbTFxx-1/FILMESONGRATIS.COM+-+Eu+Sou+a+Lenda+%282007%29.mp4?stream=1
+
+#EXTINF:-1 tvg-logo="https://i1.wp.com/filmesongratis.com/wp-content/uploads/2021/11/Resident-Evil-6-O-Capitulo-Final-Filme-2016-214x300.jpg" group-title="Terror", Resident Evil 6 – O Capítulo Final (2016)
+https://861476182.tapecontent.net/radosgw/0ZWQXAOGP1tKlA/f3blyiWWR_bjZ5BaF5wiZuHYCMYcH-tsw6gVanWKwgzCA1KbeL1P-fSkqnGijCeikzbV1VUn67YPxbcx3mRT6XsFZ1vNYMovEAQUYu3pn8R70imJ6GoFitPZN6cJCOjpj9C240zEHTJN8eYOJpygA-pvPPDbnzjD9en8xMvJKlqZsGIhUHS83Y2cy-8Xty2Lz10vmAsO1Dn5Ir34aBKpxqMI4-QPIOHoJcvtIzfZnXhwfebWPeXLh9kqK8a3OH5fHPBS-WaPEXbX6BhuFRZpMYbAp0T3ZGSwd-xQKM24zjrwXkM3YCx_lX8uzxcWaEtztbx0wwOtzYwNRpkqQaTMYTflQMzCpNdh3Hh7Tw/FILMESONGRATIS.COM+-+Resident.Evil.6.O.Cap%C3%ADtulo.Final.2017.mkv.mp4?stream=1
+
+#EXTINF:-1 tvg-logo="https://i1.wp.com/filmesongratis.com/wp-content/uploads/2021/11/Resident-Evil-5-Retribuicao-2012-214x300.jpg" group-title="Terror", Resident Evil 5 – Retribuição (2012)
+https://2475155346.tapecontent.net/radosgw/3OmykrlrZ4tRV2/yblSk3Ym9CSCpEcBGGCB30hkyz-ZylQw0ZUvFZjDmszjWMGhRr_jpwESGIYRQMZPFwUNJMEbvnult8EU_n4QYke3M_1eTxNDrgdf-_lFXLjSziYP8QLLD_eA5NIw7C2je6n7NjdY0vrQaQDNeIJypTExrbd40kHQH5VHhV04PPbGXs6SQEcfi0OUubXzIi3qOfvlMNAp3hhyLQn7UYixzFdgw6lhRFqlGxWg7dfsKD2Wzx9BNPSADB-iYuFI2tE5WeXSZLB71re8fr-amgo90H4nEewlCWQ_sRVnVcOlLSw_NHV0ikjEQPk_U2xYElcS3IHJFtjoSolrca7p/FILMESONGRATIS.COM+-+Resident.Evil.5.Retribuicao.2012.mkv.mp4?-stream=1
+
+#EXTINF:-1 tvg-logo="https://i1.wp.com/filmesongratis.com/wp-content/uploads/2021/11/Resident-Evil-4-Recomeco-2010-214x300.jpg" group-title="Terror", Resident Evil 4 – Recomeço (2010)
+https://860713988.tapecontent.net/radosgw/L1a3wZ0DZXTRoMG/2UPm7q1-Ab9Zrlr6H7QLyJLnrpITbA_jpqfdlmUFEpPoTzCqlNNoQzIOfRKCuehlvJdo90TsT4JaIm98OtHKHcJNjoXS2xAmyjzHRlYkUnMdE2jte3mwuXTezdRZAAkVXaFoIdre5oy01BQX1x31-tEHybmd8LcSwW2qGXHo7I-SpwPL_zuYprx56txHgNx6dhC9PgV7vqK_crS_V7Ia71TmvwEfI8sqn_eR8jSvyEArC_TfugUT0m3GBQrLalV7eITBo8BY_YVBKk0AMyaWgcAFI3Eyg5lIi5vOqeSvcem0daFAe6G35PKt89yenBoc4BsyipXo91VJiv7k/FILMESONGRATIS.COM+-+Resident.Evil.4.Recomeco.2010.mkv.mp4?stream=1
+
+#EXTINF:-1 tvg-logo="https://i1.wp.com/filmesongratis.com/wp-content/uploads/2021/11/Resident-Evil-3-A-Extincao-Filme-2007-214x300.jpg" group-title="Terror", Resident Evil 3 – A Extinção (2007)
+https://861658543.tapecontent.net/radosgw/aydPo98kOXIxjGm/tE7eI2izMBRRMs8Zayf9dMRXtG6nAR8cBanG5jE0-f55WD_zPpqY4UFvlihYjuRjWrZW9sjNWn591e-Y-08IEGd5oKjKWWvqtnq5BaW0EPNsdVPXH2mXvil0CgNYVsDtnpCds9uRw8i0nK06UL6TLgHOjNRa_IoCrpzZdSxCvf1_noIiIDkqBHPOJXje5yJ_bGs9-qg6nmfrT48tnCC-V-pcbUqOLDGSP-cUlWxxh0n1fukwEn8acXrNU90CDaQ_UTciE1-O5Zuj_cvEcGXLw6Uclcbr7-8hkuCHaiY3lWR3F50r40XFaV6sTOSROIUjeGb8J5dr0IjsYbFt/FILMESONGRATIS.COM+-+Resident.Evil.3.A.Extincao.2007.mkv.mp4?stream=1
+
+#EXTINF:-1 tvg-logo="https://i1.wp.com/filmesongratis.com/wp-content/uploads/2021/11/Resident-Evil-2-Apocalipse-2004-214x300.jpg" group-title="Terror", Resident Evil 2 – Apocalipse (2004)
+https://908371221.tapecontent.net/radosgw/QD8oBk3ajgskg8/Zwas0HGRz1oc9wW_sVv0hWkSUThqwIdr7WAfalMON5sI1RyrrGD47uhbrKKAjw5_FAShD-OVLp0hclESBIbz5TC_KhReqkW0BQeulUAsxWvXc3M9mwB7Dm-0SS04mgwOHMzvYs_EmB_P4emIE8PlL01h4KIjNpfCDWI1BXvdooaleWjSQWK-C-Gn7wy6VwOwVhl3X3LaEqxvi-AJFgyxJ_pXjO99f28ErqE1otZIO3zp8d7DRXVSIaNunCD4pDsCYcd86e30Ut8JOBfGivEY1IKBsmKGkU7FROvECp3N_VTSp8Rm6nstI7QiRhvM6wgTu_lHcaRmZHFPzNsD/FILMESONGRATIS.COM+-+Resident.Evil.2.Apocalipse.2004.mkv.mp4?stream=1
+
+#EXTINF:-1 tvg-logo="https://i1.wp.com/filmesongratis.com/wp-content/uploads/2021/11/Resident-Evil-O-Hospede-Maldito-2002-214x300.jpg" group-title="Terror", Resident Evil – O Hóspede Maldito (2002)
+https://872373798.tapecontent.net/radosgw/B7axY3GRy8Uy1oz/t9chNW_RgY01OtNsd5LjeU7F6b-rbRAM6_Cq00OPkY3RDJYKzM_wVQ0V9eilsM_wEDv_eQ3vumj7wuWHkJVWPk5X3SdJBKDjFIsMeIQMONYk1_69I2iW6TcB18hTasjuSryjnVbV3XVgCJRoMqtgPEEyM7-obDlf7v8QBsvcX17FkCzFnw-08jwIvM2bAKhlTfXLvMXrLfRj8Xf8msoFzkNv78bpg6MhJ2pE_xcGNvl1vfB1KJL0eoRf-wWPMbbfize8um8w8-hznO6inalbA3TV0maL36M7B9NL7I1c8F5isiAu8GRjOLfFWYgPcgkhIv9qCklUJ87VJce2H7Hsz3F4VxZe_2k-vJH3ow/FILMESONGRATIS.COM+-+Resident+Evil+1+-+O+H%C3%B3spede+Maldito.mp4?stream=1
+
