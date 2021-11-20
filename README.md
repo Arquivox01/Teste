@@ -157,3 +157,5 @@ https://872373798.tapecontent.net/radosgw/B7axY3GRy8Uy1oz/t9chNW_RgY01OtNsd5LjeU
 #EXTINF:-1 tvg-logo="https://i1.wp.com/filmesongratis.com/wp-content/uploads/2021/11/Para-Todos-os-Garotos-que-Ja-Amei-2018-214x300.jpg" group-title="Romance", Para Todos os Garotos que Já Amei (2018)
 https://bit.ly/3ctr6eH
 
+#EXTINF:-1 tvg-logo="https://assistirfilmesonlinehd12.com/wp-content/uploads/2020/07/tGsD7kCegBuI9MPCQvFsOUe26V2-185x278.jpg" group-title="Lançamentos", Coração de Dragão Vingança (2020)
+https://www.googleapis.com/drive/v3/files/18lPdxJLO3ROk5zLSent5q2KFIkkAp1by?alt=media&key=AIzaSyB7zJPlzAnGqOyznqKMfcg9f05ciTXHtkw
