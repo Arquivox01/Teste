@@ -1,161 +1,67 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="https://i1.wp.com/filmesongratis.com/wp-content/uploads/2021/08/O-PODEROSO-CHEFINHO-2-NEGOCIOS-DA-FAMILIA-214x300.jpg" group-title="Lançamentos", O Poderoso Chefinho 2 Negocio de Familia
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w342/dSFaiG2xgwq2Z0ceUXPyfxnITC8.jpg" group-title="Lançamentos", Spirit O Indomavel
+https://archive.org/download/spirit-o-indomavel-2021-720p-blu-ray-dual-5.1-pfilmes/Spirit%20-%20O%20Indom%C3%A1vel%20%5B2021%5D%20720p%20BluRay%20Dual%205.1%20%40PFilmes.mp4
 
-https://858143365.tapecontent.net/radosgw/dQMW7RgDK4ckYgx/o4r9bB0xalWiIgFPoaGwyrDuO0Up7CvTITjFO5qbSkYCxETwatFCVvmei0SGvdKqjxZKWpbdP4oEJYp6hHKfIZDoIYYINCz_rz4VYgpvAgT4r2wXVyQnYTffRvTz61IUctdcLH4rgKQrMKg52-9NG5vM9YgI6HCDG5HeA9BSo7IPZJRoCmVcrqyAZLDp_5MJBW6nny2i3YIBXjLIjU09xTFKJMvvXsbntfLaA108g2wpIiwkkXFMVJ5_RSsv1ISs_Bnx5gg65AOPnL2WjA6sQp_orzrY3HjiHQUB323ju8vqRZwvPLBktxs18R_dYaVCrbuj9w4h8H3Ym_dIHdNWhdHVFk6uXjBRweCTvw/FILMESONGRATIS.COM+-+O+Poderoso+Chefinho+2+Neg%C3%B3cios+da+Fam%C3%ADlia+2021.mkv.mp4?stream=1
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w342/7cVFRHlN2gPWIEQnz6Yo43fYVkL.jpg" group-title="Lançamentos", Esqueceram de Mim no Lar, Doce Lar
+https://archive.org/download/esqueceram-de-mim-no-lar-doce-lar-2021-web-dl-1080p-dual-5.1/Esqueceram%20de%20Mim%20no%20Lar%2C%20Doce%20Lar%202021%20WEB-DL%201080p%20DUAL%205.1.mp4
 
-#EXTINF:-1 tvg-logo="https://i1.wp.com/filmesongratis.com/wp-content/uploads/2021/09/shang-214x300.jpg" group-title="Lançamentos", Shang-Chi e a Lenda dos Dez Anéis (2021)
-https://908344487.tapecontent.net/radosgw/Xxx1x3aX4lCD9AG/jHMTSCqyLiZ-SdAQqLWNaTh5JwgTHFm5FAFr2hftIhJf3anvRSyujc2LAizapXrPeedQIxZlpBKE20sdBQAGHD-wTDZz0krUTHt2HVZSxCRBBfkkLakfwYDezd4wZFWhACW9S79TxegtjcFcirVVYQNlZVkmDSh844O89XUGCc_N_c7paPUrXTeRdoPM1Tn2tKRtWWn3FTJCDkM1Mx27OK1nCfVYg-RRVUhxADMlIvnRu5tgEi_bvzpuJfVGhUMNDyUQgvh2eGVdmSha0G_k4ovK295T_mjuCoDCPm7bzRWRAwvDyNBmHXfJX4NpEcZiB3Zw9jb9UoRf5Q5kl1PIm3p8JSndHh9Wk3r4Ag/FILMESONGRATIS.COM+-+Shang-Chi+e+a+Lenda+dos+Dez+An%C3%A9is+2021.mkv.mp4?stream=1
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w342/jXlGeLOg2RKHmV9CinVaIB4ijKU.jpg" group-title="Lançamentos", Free Guy Assumindo o Controle
+https://archive.org/download/free-guy-2021-720p-blu-ray-dual-5.1-pfilmes/Free%20Guy%20%5B2021%5D%20720p%20BluRay%20Dual%205.1%20%40PFilmes.mp4
 
-#EXTINF:-1 tvg-logo="https://i1.wp.com/filmesongratis.com/wp-content/uploads/2021/08/Escape-Room-2-Tensao-Maxima-214x300.jpg" group-title="Lançamentos", Escape Room 2 – Tensão Máxima
-https://860615386.tapecontent.net/radosgw/mgWkp7XXzeub8b0/OOzrHJlulOjP6D_bcxSDXNW13yEknvht_9ryUAyh_Ln0OOVs6chgGDA2EdHozX_2fgD1XI5GGPRw4FChx1TMTug9BudZALJwiO0OCUfGMUz0TEA_KuxuzUGrCf3H8tysVSnZKVQhQLLHPcRA4--korYQ_Z3aZzYryy7I1Njt3Op8efIfhg_OYuNlE9tU3vlvMlifWVQhVl_6GEvrVrQ1RuuPtDpjMHbbKwTQxtV6CewpDcJL7D2PsSaLa0KzmV0tGFYwnPMmq0Kuwe5CASqSE1sKkMv8-DuUouVHkb4SroBYeeSWwm4gx6AaaEa-227o2h_WpgTBqktnn3htmgMqcWEDLYDB7any51S3rV_9dlhAolIrRCkd1XGD5xA/FILMESONGRATIS.COM+-+Escape+Room+2-+Tens%C3%A3o+Maxima+VERS%C3%83O+ESTENDIDA+2021.mkv.mp4?stream=1
+#EXTINF:-1 tvg-logo="https://filmesviatorrents.tv/wp-content/uploads/2021/08/Tempo-Torrent.jpg" group-title="Lançamentos", Tempo (2021)
+https://archive.org/download/tempo-2021-720p-blu-ray-dual-5.1-x-264-pfilmes/Tempo%20%5B2021%5D%20720p%20BluRay%20Dual%205.1%20x264%20%40PFilmes.mp4
 
-#EXTINF:-1 tvg-logo="https://i1.wp.com/filmesongratis.com/wp-content/uploads/2021/08/IMG_3063-214x300.jpg" group-title="Lançamentos", Viúva Negra (2021)
-https://fs21.sstrge.online/remote_control.php?file=B64YTo0OntzOjQ6InRpbWUiO2k6MTYzNzMzNDQxNztzOjU6ImxpbWl0IjtpOjA7czo0OiJmaWxlIjtzOjM3OiIvdmlkZW9zLzQ4OTAwMC80ODk5OTgvNDg5OTk4XzM2MHAubXA0IjtzOjI6ImN2IjtzOjMyOiIwMjhiMDdiN2E2NTRmZGJjMDYwMDRhZjY5ODdlYjA0NSI7fQ%3D%3D
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w342/rRYNGhcAZlTfIUS7iFoF4H9iDbc.jpg" group-title="Lançamentos", Cruella
+https://archive.org/download/cruella-2021-720p-web-dl-dual-5.1-pfilmes/Cruella%20%5B2021%5D%20720p%20Web-dl%20Dual%205.1%20%40PFilmes.mp4
 
-#EXTINF:-1 tvg-logo="https://i1.wp.com/filmesongratis.com/wp-content/uploads/2021/08/3385237-214x300.jpg" group-title="Lançamentos", Velozes E Furiosos 9
-https://fs17.sstrge.online/remote_control.php?file=B64YTo0OntzOjQ6InRpbWUiO2k6MTYzNzMzNDU5MDtzOjU6ImxpbWl0IjtpOjA7czo0OiJmaWxlIjtzOjM3OiIvdmlkZW9zLzUwNTAwMC81MDU1MTUvNTA1NTE1XzM2MHAubXA0IjtzOjI6ImN2IjtzOjMyOiJmYWJlM2I4MWRhMWMyMzMyY2Q3ODQ1MGNjNDE0MGIzNSI7fQ%3D%3D
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w342/s9E9W77HS8zEQvsrpz5aEUTKnvD.jpg" group-title="Lançamentos", Duna (2021)
+https://archive.org/download/duna-2021-720p-web-dl-dublado-x-264-pfilmes/Duna%20%5B2021%5D%20720p%20Web-dl%20Dublado%20x264%20%40PFilmes.mp4
 
-#EXTINF:-1 tvg-logo="https://i1.wp.com/filmesongratis.com/wp-content/uploads/2021/08/Invocacao-do-Mal-3--214x300.jpg" group-title="Lançamentos", Invocação do Mal 3 (Dublado) (2021)
-https://rr5---sn-bg07dnsl.c.drive.google.com/videoplayback?expire=1637349186&ei=Ar-XYZLNC43TgwOjqoXIBA&ip=186.236.82.53&cp=QVRIWURfWFFWR1hPOmJwLWw4OXpmbWROSHVyMFc4WU85TV9mZmtjc18xTVkxYWQ1ZjJINkdaSE0&id=9094378eb8af7f00&itag=18&source=webdrive&requiressl=yes&ttl=transient&susc=dr&driveid=10UnQbaBF38ECH8hrheDGTCKL484J3R9b&app=explorer&mime=video/mp4&vprv=1&prv=1&dur=6711.170&lmt=1630143688964756&sparams=expire,ei,ip,cp,id,itag,source,requiressl,ttl,susc,driveid,app,mime,vprv,prv,dur,lmt&sig=AOq0QJ8wRQIhAP4puyq2Y6N-EhQblH6ZIJxzFtOuTM5Vce7iPG7dIbn7AiBl9ecPkT1yUXMocqECM8MEYeOsSKWmGZy0SRLKmEYNDg==&cpn=ERY-aNp6D4IcYFOw&c=WEB_EMBEDDED_PLAYER&cver=1.20211117.01.00&redirect_counter=1&cm2rm=sn-bg0de76&fexp=24052760&req_id=37100d8e197c36e2&cms_redirect=yes&mh=Ao&mm=34&mn=sn-bg07dnsl&ms=ltu&mt=1637334757&mv=m&mvi=5&pl=20&lsparams=mh,mm,mn,ms,mv,mvi,pl&lsig=AG3C_xAwRQIhAI0lnGOPxGHc9Ms9VpxbQbdPTOntk_bdAeaC06l_WwDMAiAJIdu_vw3F6wvZ8b41GlGm9ntq_gn6YTN7V-b573J3xw%3D%3D
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w342/ArrOBeio968bUuUOtEpKa1teIh4.jpg" group-title="Lançamentos", Shang-Chi e a Lenda dos Dez Anéis
+https://archive.org/download/shang-chi-2021-720p-web-dl-imax-dual-5.1-x-265/Shang-Chi%20%5B2021%5D%20720p%20Web-dl%20IMAX%20Dual%205.1%20x265.mp4
 
-#EXTINF:-1 tvg-logo="https://i1.wp.com/filmesongratis.com/wp-content/uploads/2021/08/1495362-214x300.jpg" group-title="Lançamentos", O Esquadrão Suicida 2
-https://casia.evosrv.com/EvoStreams/kRXS8g9OTEnlfkIBJOva.mp4.mp4?md5=BQCuX7c506OIJQWj_fHYJQ&expires=1637347071
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w342/ArrOBeio968bUuUOtEpKa1teIh4.jpg" group-title="Lançamentos", Shang-Chi e a Lenda dos Dez Anéis - Server 2
+https://www.googleapis.com/drive/v3/files/1fE7iAmFnvOZmB_JGjke_by33Jyo065Qd?alt=media&key=AIzaSyD7IZii6I0bsF2K3y0bDTsKf5E-rBWcVBM
 
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BOWI5YTUxOWEtZmRiZS00ZmQxLWE2NzctYTRiODA2NzE1ZjczXkEyXkFqcGdeQXVyMDM2NDM2MQ@@._V1_.jpg" group-title="Lançamentos", Cruella
-https://lera.evosrv.com/EvoStreams/2wBLHD7ZMfpENzL2SsQD.mp4.mp4?md5=_QzW1MyGpS0BqEbpH3rbmA&expires=1637347452
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w342/qnw9610ojLT0jU3lMSZOAFttt1e.jpg" group-title="Filmes", Harry Potter e a Pedra Filosofal 
+https://archive.org/download/box-filmes-harry-potter-e-a-pedra-filosofal-2001/%40BoxFilmes_Harry%20Potter%20e%20a%20Pedra%20Filosofal%20%282001%29.mp4
 
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMTE2ODU4NDEtNmRjNS00OTk1LTg4NmMtNTAzYzVlNzJmYjgzXkEyXkFqcGdeQXVyODk4OTc3MTY@._V1_.jpg" group-title="Lançamentos", Um Lugar Silencioso - Parte II
-https://talia.evosrv.com/EvoStreams/6EzTU2QBsJndIsaVx0Oa.mp4.mp4?md5=h-XJ5D2OlKNGx_FA8F0TRA&expires=1637347629
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w342/811j0Jf2D0mK1U6RxXJoZgOB29n.jpg" group-title="Filmes", Harry Potter e a Câmara Secreta
+https://archive.org/download/box-filmes-harry-potter-e-a-camara-secreta-2002/%40BoxFilmes_Harry%20Potter%20e%20a%20C%C3%A2mara%20Secreta%20%282002%29.mp4
 
-#EXTINF:-1 tvg-logo="https://i1.wp.com/filmesongratis.com/wp-content/uploads/2021/08/Free-Guy-2021-214x300.jpg" group-title="Lançamentos", Free Guy (Dublado) (2021)
-https://fs23.sstrge.online/remote_control.php?file=B64YTo0OntzOjQ6InRpbWUiO2k6MTYzNzMzNTk4ODtzOjU6ImxpbWl0IjtpOjA7czo0OiJmaWxlIjtzOjM3OiIvdmlkZW9zLzUxNzAwMC81MTc0MzAvNTE3NDMwXzM2MHAubXA0IjtzOjI6ImN2IjtzOjMyOiI3MTdlOTcyNjBjMGZhZTk4MGE4NjQ2NGVhMzQ5MTZkMiI7fQ%3D%3D
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w342/yD3VosOVW8WxPUzBDpEdzfv5pGx.jpg" group-title="Filmes", Harry Potter e as Relíquias da Morte – Parte 2
+https://archive.org/download/harry-potter-e-as-reliquias-da-morte-parte-2/Harry%20Potter%20e%20as%20Rel%C3%ADquias%20da%20Morte%20Parte%202.mp4
 
-#EXTINF:-1 tvg-logo="https://i1.wp.com/filmesongratis.com/wp-content/uploads/2021/08/Candyman.2021-214x300.jpg" group-title="Lançamentos", A Lenda de Candyman (Dublado) (2021)
-https://2371755320.tapecontent.net/radosgw/PqwwAX00K8UGJg/OIJwE65uSyg6ZHuEZurKOCTRuf7O8ZKSYMcLk-eupXohSKzRT1vpOUPuSm6y3iYl6BJXRX7Ayq70Jd06R2zSEZiivnhKkHVa4LYWWOPH35v-k9I3Q6a1SRmK5MCv44HceM9mkO8Tz4VKtQQ7dwIHtZnx9L9wxgB1SXlNfF-Bq513FLwQrPv-xe56PShOTiymqKFPU12Wlc2Ct_ZzYkNFGLqSDr_lHrKGBBgzXExEgBAMDGrSYFhMr71QhwQ8KB9_4GjH9wWgK7PCQYo-h3E4vT81gw57pig_GZT3ptIOQ9AvPfe_wvLK-DQqoqBTngU3ODK00KiqyWs0Nk2g/FILMESONGRATIS.COM+-+A+Lenda+de+Candyman+2021.mkv.mp4?stream=1
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w342/1HdMUghqlgOIvbsU9ZtO40IPRzl.jpg" group-title="Filmes", Harry Potter e o Prisioneiro de Azkaban
+https://archive.org/download/box-filmes-harry-potter-e-o-prisioneiro-de-azkaban-2004/%40BoxFilmes_Harry%20Potter%20e%20o%20Prisioneiro%20de%20Azkaban%20%282004%29.mp4
 
-#EXTINF:-1 tvg-logo="https://i1.wp.com/filmesongratis.com/wp-content/uploads/2021/08/Vingadores-Guerra-Infinita-214x300.jpg" group-title="Filmes", Vingadores: Guerra Infinita (Dublado)
-https://fs21.sstrge.online/remote_control.php?file=B64YTo0OntzOjQ6InRpbWUiO2k6MTYzNzMzNzA2NjtzOjU6ImxpbWl0IjtpOjA7czo0OiJmaWxlIjtzOjM3OiIvdmlkZW9zLzUwNTAwMC81MDU5MzQvNTA1OTM0XzM2MHAubXA0IjtzOjI6ImN2IjtzOjMyOiI0Y2Y3OGFhMGI3NGRkN2RmZjI3OGZkNDZjZWIwYzM1OSI7fQ%3D%3D
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w342/tIf9aUyNljda9MG1pjlOLHCZ3b0.jpg" group-title="Filmes", Harry Potter e a Ordem da Fênix 
+https://archive.org/download/box-filmes-harry-potter-e-a-ordem-da-fenix-2007/%40BoxFilmes_Harry%20Potter%20e%20a%20Ordem%20da%20F%C3%AAnix%20%282007%29.mp4
 
-#EXTINF:-1 tvg-logo="https://i1.wp.com/filmesongratis.com/wp-content/uploads/2021/11/A-Mumia-2017-214x300.jpg" group-title="Filmes", A Múmia (2017)
-https://2371821717.tapecontent.net/radosgw/ZrRg3AV2LRIqb0y/7KkkFOw9bW52yhfPn3SMvZzUieyMI9gcawXKqCuqwRVB3jR-0WmqmIab27SWcNeGcowYY8XMdmlLslDVJg8JJo636kDVBzciM_SyXwHMszS6iVBj-IOgkEJHa1tgWjdXKFjDSiloUE8I9JHcu_VV7qSpMO37tOv7BETJZiBq0LrPOiLEpaS-svUnBLwzkI3YFhTHRmoLpkYqoUAe1UlJb---U1DNCX0OXzhQT5J9S0dSdT0u2I-2lyT0g_S-6G_lUpFTuF68WqukLFalUBhFgBeGHUAfA1biIeitljIowadFgjblS0RslJd1UEw/FILMESONGRATIS.COM+-+A.M%C3%BAmia.2017.mp4?stream=1
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w342/tIf9aUyNljda9MG1pjlOLHCZ3b0.jpg" group-title="Filmes", TESTANDO
+https://nl28.seedr.cc/ff_get/1055685312/Venom%20Tempo%20de%20Carnificina%202021%201080p%20DUAL%20WEBRip%205.1.mkv?st=4ic0dl9lpb0Qp5FrAXiQng&e=1637942091
 
-#EXTINF:-1 tvg-logo="https://i1.wp.com/filmesongratis.com/wp-content/uploads/2021/11/Predador-2-A-Cacada-Continua-Filme-1990-214x300.jpg" group-title="Filmes", Predador 2 – A Caçada Continua (1990)
-https://868418831.tapecontent.net/radosgw/pMMRojzM29slP8/OD8SCIHKGwKuwn9uxoc4fm4Dj4E1UDaWJ32BLEnK4PCttNAaJ-wIRE4Efb-L0EzNuZRcENcpElRNrg056G6Vkab_15Ap8RkAIGpfcmoe4tUXqsr2yjVRfg1UWeEPo4wrcF2u5HXTc6ViAegdsjwwioNyToxOAmLIV1-G39IYVzumDejcB6Z69PmUVWhck-Ot20MTtbsowdaaX6uBfXJIWJyARb4LQyKNGcIHM_QuoZ9p4HRCaMLmSgI_PXEF4M3cMwbIgAU_rjsU8f_ZRR6_SwVuICgH_v1GWaxoB7LtAIZkk2zqUYeFFdq-E2A5C-rFXMNphUqOe0TPkwLCDe6GEZIBTXhERP5GtPm1Rw/FILMESONGRATIS.COM+-+Predador.2.A.Ca%C3%A7ada.Continua.1990.1080p.mkv.mp4?stream=1
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w342/67FVFOTaeBUQnimhCWpUkDawDct.jpg" group-title="Filmes", Harry Potter e as Relíquias da Morte – Parte 1 
+https://archive.org/download/harry-potter-e-as-reliquias-da-morte-parte-1/Harry%20Potter%20e%20as%20Rel%C3%ADquias%20da%20Morte%20Parte%201.mp4
 
-#EXTINF:-1 tvg-logo="https://i1.wp.com/filmesongratis.com/wp-content/uploads/2021/10/Alien-vs.-Predador-2-2007-214x300.jpg" group-title="Filmes", Predador 2 – Alien vs. Predador 2 (2007)
-https://fs5.sstrge.online/remote_control.php?file=B64YTo0OntzOjQ6InRpbWUiO2k6MTYzNzM0Mzc2MztzOjU6ImxpbWl0IjtpOjA7czo0OiJmaWxlIjtzOjM3OiIvdmlkZW9zLzUyNzAwMC81Mjc2MTcvNTI3NjE3XzM2MHAubXA0IjtzOjI6ImN2IjtzOjMyOiJlYWY1ZGYwNDQ3NzgxYzhiZWJkYjRlYWE0MTkzYTNkNyI7fQ%3D%3D
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w342/67FVFOTaeBUQnimhCWpUkDawDct.jpg" group-title="Filmes", Harry Potter e as Relíquias da Morte – Parte 1 - Servidor 2 
+https://www.googleapis.com/drive/v3/files/1DVMrnokj1QrHkKwHXWd5IhWQM3z2lQW_?alt=media&key=AIzaSyD7IZii6I0bsF2K3y0bDTsKf5E-rBWcVBM
 
-#EXTINF:-1 tvg-logo="https://i1.wp.com/filmesongratis.com/wp-content/uploads/2021/10/O-Predador-2018-214x300.jpg" group-title="Filmes", O Predador (2018)
-https://fs17.sstrge.online/remote_control.php?file=B64YTo0OntzOjQ6InRpbWUiO2k6MTYzNzM0Mzk4MjtzOjU6ImxpbWl0IjtpOjA7czo0OiJmaWxlIjtzOjM3OiIvdmlkZW9zLzUyOTAwMC81Mjk2MzcvNTI5NjM3XzM2MHAubXA0IjtzOjI6ImN2IjtzOjMyOiJkOTk0YTQ5ZjgyZGM5OWU4OTFiODViMDVlNDlkMzhjZCI7fQ%3D%3D
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w342/5oWB3hjzyECRBAjgWkmZinxl9qA.jpg" group-title="Filmes", Harry Potter e o Cálice de Fogo
+https://archive.org/download/box-filmes-harry-potter-e-o-calice-de-fogo-2005/%40BoxFilmes_Harry%20Potter%20e%20o%20C%C3%A1lice%20de%20Fogo%20%282005%29.mp4
 
-#EXTINF:-1 tvg-logo="https://i1.wp.com/filmesongratis.com/wp-content/uploads/2021/11/Rampage-Destruicao-Total-2018-214x300.jpg" group-title="Filmes", Rampage – Destruição Total (2018)
-https://fs14.sstrge.online/remote_control.php?file=B64YTo0OntzOjQ6InRpbWUiO2k6MTYzNzM0NDEwMTtzOjU6ImxpbWl0IjtpOjA7czo0OiJmaWxlIjtzOjM3OiIvdmlkZW9zLzUzMjAwMC81MzIxMDYvNTMyMTA2XzM2MHAubXA0IjtzOjI6ImN2IjtzOjMyOiJhYzIyMGU4YjY4MWY0MDczZWJhODNmMTJmZDVjODA4MiI7fQ%3D%3D
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w342/hTQQ5l9mxA3Rob8PTyvrNNGuj6y.jpg" group-title="Filmes", Harry Potter e o Enigma do Príncipe 
+https://archive.org/download/box-filmes-harry-potter-e-o-enigma-do-principe-2009/%40BoxFilmes_Harry%20Potter%20e%20o%20Enigma%20do%20Pr%C3%ADncipe%20%282009%29.mp4
 
-#EXTINF:-1 tvg-logo="https://i1.wp.com/filmesongratis.com/wp-content/uploads/2021/11/No-Limite-do-Amanha-2014-214x300.jpg" group-title="Filmes", No Limite do Amanhã (2014)
-https://2565136268.tapecontent.net/radosgw/2qly0p1GjJSZg2y/tWuh6OE5QeeC4Eyq4WVIm0fzRcgSiF_XLygHvx48BPVhvwP6jBm6sO1ozPDkULWwNpaPzKNZHXwAWnBeFYqsCmQIqNjOBDEAn2mOlfQy3oSjSncqMXyM6YhBstBhuCYPvQtvf_u5HyXkz5YUts6cbNe8rbwELaUC-c49stG6eMG2Tq6GhSPzdtA8M52FBHQX43ASJvTtSbXXQkwO9ISAND5CPmGpXzUbiTi3FVMSR12lTeJ7EWNPj0xeLww91nlcLZZqXvtILLtZ1Hvl9ed3pjUPLNFSdRLqIPu8kqRaROfni3EMlYqMlSziZiq8-xOH9Q33lTw2npzn1MN3/FILMESONGRATIS.COM+-+No+Limite+do+Amanh%C3%A3+%282014%29.mp4?stream=1
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w342/9jPa6SlUYxPFMVZlEuceiPPAA15.jpg" group-title="Lançamentos", Luca  
+https://archive.org/download/luca-2021-720p-web-dl-dual-5.1-x-264-pfilmes/Luca%20%5B2021%5D%20720p%20Web-dl%20Dual%205.1%20x264%20%40PFilmes.mp4
 
-#EXTINF:-1 tvg-logo="https://i1.wp.com/filmesongratis.com/wp-content/uploads/2021/11/Amor-a-Tres-2021-214x300.jpg" group-title="Filmes", Amor a Três (2021)
-https://fs23.sstrge.online/remote_control.php?file=B64YTo0OntzOjQ6InRpbWUiO2k6MTYzNzM0NTYzOTtzOjU6ImxpbWl0IjtpOjA7czo0OiJmaWxlIjtzOjM3OiIvdmlkZW9zLzUzOTAwMC81Mzk5MDgvNTM5OTA4XzM2MHAubXA0IjtzOjI6ImN2IjtzOjMyOiIyOGZhMmViMTUwZjk2M2RmYWZlNTkzZjkzNjM5YjhlOCI7fQ%3D%3D
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w342/fnAzaxRSiveFafudJtByxA7I2xT.jpg" group-title="Lançamentos", Velozes & Furiosos 9
+https://archive.org/download/velozes-e-furiosos-9-2021-720p-web-dual-5.1-pfilmes/Velozes%20e%20Furiosos%209%20%5B2021%5D%20720p%20Web%20Dual%205.1%20%40PFilmes.mp4
 
-#EXTINF:-1 tvg-logo="https://i1.wp.com/filmesongratis.com/wp-content/uploads/2021/10/Um-Principe-em-Nova-York-2-2021-214x300.jpg" group-title="Filmes", Um Príncipe em Nova York 2 (2021)
-https://908471838.tapecontent.net/radosgw/vLPzDR3jpgh466R/5aXobYgu-Fe-h3eK1pRJ6i7V51TWXjKu78ht-ApyORIw9ks-L45B5jpB8T3kJcPQK6O7V8NA0IqwVErl8gYxO2GEHaimm59uZa5pAyuqTTI70AOI0pKaL-A0bPc6hn_l1lEoHJmCjh_QpKsKKQFrOn3ckTdhnd61Iv03c38GFp4bnDaGhiXALMwTDAPCRcp_oDmU2hDOETqFcUrSjydzb5cYUyrh7zl7EFOwkjRQSPbTcURa0_9vzwAYVNkfsVWd6CO4m7VvPODHKkYf-Z37ol-sqJtu5R-BjT5WI-oGEBFtFnnMDZATZVSv1CxLO_93l2WbFBvDUiMXtIq2eqwRkVN4bAT75I9tA8QUzA/FILMESONGRATIS.COM+-+Um.Pr%C3%ADncipe.em.Nova.York.2.2021.mkv.mp4?stream=1
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w342/kU0NbsUVoUMcYxoISmBCxFmgWYC.jpg" group-title="Lançamentos", Space Jam Um Novo Legado
+https://archive.org/download/space-jam-2-2021-720p-web-dl-dual-5.1-pfilmes/Space%20Jam%202%20%5B2021%5D%20720p%20Web-dl%20Dual%205.1%20%40PFilmes.mp4
 
-#EXTINF:-1 tvg-logo="https://i1.wp.com/filmesongratis.com/wp-content/uploads/2021/10/Um-Principe-em-Nova-York-1988-214x300.jpg" group-title="Filmes", Um Príncipe em Nova York (1988)
-https://fs3.sstrge.online/remote_control.php?file=B64YTo0OntzOjQ6InRpbWUiO2k6MTYzNzM0NjEwNztzOjU6ImxpbWl0IjtpOjA7czo0OiJmaWxlIjtzOjM3OiIvdmlkZW9zLzUyMDAwMC81MjAwNDAvNTIwMDQwXzM2MHAubXA0IjtzOjI6ImN2IjtzOjMyOiIyNjE5NWI4ZmJlNjQxYjViNjRjMTNkMWY4YmQ2YWUyYSI7fQ%3D%3D
-
-#EXTINF:-1 tvg-logo="https://i1.wp.com/filmesongratis.com/wp-content/uploads/2021/09/Aladdin-2019-214x300.jpg" group-title="Filmes", Aladdin (2019)
-https://fs21.sstrge.online/remote_control.php?file=B64YTo0OntzOjQ6InRpbWUiO2k6MTYzNzM0NjIwMTtzOjU6ImxpbWl0IjtpOjA7czo0OiJmaWxlIjtzOjM3OiIvdmlkZW9zLzUxNjAwMC81MTY1MDUvNTE2NTA1XzM2MHAubXA0IjtzOjI6ImN2IjtzOjMyOiJlNjFjM2I5YmE0ZGVkNzYwZDgwYzc1MzkzOTljNDcxYyI7fQ%3D%3D
-
-#EXTINF:-1 tvg-logo="https://i1.wp.com/filmesongratis.com/wp-content/uploads/2021/09/Pantera-Negra-214x300.jpg" group-title="Filmes", Pantera Negra (Dublado)
-https://fs19.sstrge.online/remote_control.php?file=B64YTo0OntzOjQ6InRpbWUiO2k6MTYzNzM0NjQxODtzOjU6ImxpbWl0IjtpOjA7czo0OiJmaWxlIjtzOjM3OiIvdmlkZW9zLzUwOTAwMC81MDk0MjgvNTA5NDI4XzM2MHAubXA0IjtzOjI6ImN2IjtzOjMyOiJkMTA1YmI0NDI4MTdjYzM3OWM1ZmY1YmYwZWMzYTYyZSI7fQ%3D%3D
-
-#EXTINF:-1 tvg-logo="https://i1.wp.com/filmesongratis.com/wp-content/uploads/2021/09/Frozen-2-214x300.jpg" group-title="Animação", Frozen 2
-https://casia.evosrv.com/EvoStreams/ORrHF6HQRHSkwDlO9y9A.mp4.mp4?md5=_ipYWsinhgwOINRn-fgNkQ&expires=1637360317
-
-#EXTINF:-1 tvg-logo="https://i1.wp.com/filmesongratis.com/wp-content/uploads/2021/09/Frozen-2-214x300.jpg" group-title="Animação", Frozen Uma Aventura Congelante
-https://casia.evosrv.com/EvoStreams/ehnnxhcAD5eSMzPstupw.mp4.mp4?md5=ILoX1WGoX3QzOJqQkrUXTw&expires=1637360475
-
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMTg2MTMyMzU0M15BMl5BanBnXkFtZTgwOTU3ODk4NTE@._V1_.jpg" group-title="Animação", Minions
-https://luma.evosrv.com/EvoSrv/z9zqVw6n3ZzcocE0rPVp.mp4?md5=GWZuw5otQzqgmOwoAsXh0Q&expires=1637360728
-
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMTcxODgwMDkxNV5BMl5BanBnXkFtZTYwMDk2MDg3._V1_.jpg" group-title="Filmes", Harry Potter e a Câmara Secreta
-https://casia.evosrv.com/EvoSrv/8gTzIMN43TpX5yCLNSmM.mp4?md5=NRMIcALPR5-AbiCRvQkZYw&expires=1637361352
-
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMTY4NTIwODg0N15BMl5BanBnXkFtZTcwOTc0MjEzMw@@._V1_.jpg" group-title="Filmes", Harry Potter e o Prisioneiro de Azkaban
-https://908374502.tapecontent.net/radosgw/xO6eWOK833skd6R/qHCWiN8BeYgNjBtbY1Ty3q233ogHtCAkkceoeOdYRdYC_8bwTj1zuofmhva_-ZLQqaprpVEiK-WZxzzt1z63vglXPM0OyDM1VgyNbiXe3vw7bBMU327NBjIbw88dPFktByFDIr0Z1WOQ8EkjOsz4ZgEB62zpDLKtrj8Db-rMyYhKYzssZpIwDGpYEtclcH0NtXCjsdZqaD-t87FUMQFzyjc-zAz07T83hG2ifui1koDmdpxgMglFieP3F_nnQ7YURDyDIrfutG8jlaVK7RdngkPE35IZPx5vNLdZGxqYEfckTnuwuATLTYE0vET-pSWEa4oj7aBV_WXSaw05ZEBK1Rlbnzw_P2UT0NF8yA/FILMESONGRATIS.COM+-+Harry+Potter+e+o+Prisioneiro+de+Azkaban+%282004%29.mp4?stream=1
-
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMTI1NDMyMjExOF5BMl5BanBnXkFtZTcwOTc4MjQzMQ@@._V1_.jpg" group-title="Filmes", Harry Potter e o Cálice de Fogo
-https://2371755320.tapecontent.net/radosgw/vpZ3qk4zz1S4XQK/8y-0MJ722p_4KAZXJ0XKBH3NmsICffKKP1F3DbbACpqOuKO4lDb-9R1bUjsSgj4Xqxxa3D0-7RsFoLQYHZNuVyRvh4FfeVOJvH3pTYubBdd-AARvzmb1rBEbJOgEfexx-z9T3UeGkPlpraqfexII29HmwvoN4nl9DCEm2eZFa1zQ0Wil15U7W-lI3D4zHUDiJWfSn1azPPajGSlrNEfD7fULSSXik_ers7CAi4laQbQf1IE6zROYqHqziEQZWahECJV7XXP42BRAi3fymfq68kLxNbkj7A3fMRrs1ATeQcNAI3-P491wy9yjArKmwFbAHxMNAzSzSKHafvZH6rLmI4WKnAkt1ekPjLC9lA/FILMESONGRATIS.COM+-+Harry+Potter+e+o+C%C3%A1lice+de+Fogo+%282005%29.mp4?stream=1
-
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMTM0NTczMTUzOV5BMl5BanBnXkFtZTYwMzIxNTg3._V1_.jpg" group-title="Filmes", Harry Potter e a Ordem da Fênix
-https://2371755318.tapecontent.net/radosgw/goOKZW4YeXtq8ZV/T_oO-gxqDx_J1q-EjBhOWSzaH_aKoxAL4mUpZ0eNb4Zkfworea2n4e8Osg6wecmuhtIgKYQkDCxWccfGOtWH55WP6RnbBMz0iLi7ee_TWcYX6OuBZz1p_ngbAXse4QJ0t6jxviIIR5eIzR5zcsAdEx1Vmap2ncwDkWQUV5lCrwhnn_Kq61YYHlXJKoqD8glR3zB7Q7pFRtE4ajI3larKhkYaiOAvVxVMYamI2NGaCI1HZGYjdXcsEu_PsF-T6cDwY2MSQVZ9VnN7mxAVTSY3OOL87TazD4DH1dSbkFDdyMF-tIYUkiFc-LxtVkqCQJLwcvPIP79djaVCteX8-oylGuF2JigX9Vk6f8pT7g/FILMESONGRATIS.COM+-+Harry+Potter+e+a+Ordem+da+F%C3%AAnix+%282007%29.mp4?stream=1
-
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BNzU3NDg4NTAyNV5BMl5BanBnXkFtZTcwOTg2ODg1Mg@@._V1_.jpg" group-title="Filmes", Harry Potter e o Enigma do Príncipe
-https://860568899.tapecontent.net/radosgw/VP7jg2pq4GSKVd9/2gBe8eKsnh3nnq1Rp6g28foyMHHnyXkUahNzJP2s_fb4iC5AQ4cs334C2NtSpZQzbEeJ8ZWEX17yq1g_zSAeAoj8oRQfq_wB6mY6M8FuWFGiwwr6yst-3aN-FkNA8i6Ie0xPVQFORRvW01isI4nn5rytbw96wkMPGYSHI0rYbS8DCnb3Mt0uhNUSsDehzSd2b7nSAVSLrplJQ8HsFoQEnsNiUY8NYefJeKGIkyDmK6mIIkocd1W7yKLBzUiXj-YKw4vSU9uK4u4HOdgxTM1yW3VoUnlrLkwlmls3Des7BbngMIoRwShnOHqJ7rQPyjcv3TVGt7jxtqUA7x7XXGTAnA-fDQIHJWIEYiIdEQ/FILMESONGRATIS.COM+-+Harry+Potter+e+o+Enigma+do+Pr%C3%ADncipe+%282009%29.mp4?stream=1
-
-#EXTINF:-1 tvg-logo="https://i1.wp.com/filmesongratis.com/wp-content/uploads/2021/11/Harry-Potter-e-as-Reliquias-da-Morte-Parte-1-2010.jpg" group-title="Filmes", Harry Potter e as Relíquias da Morte Parte 1 (2010)
-https://908357237.tapecontent.net/radosgw/XBqMaMo111HZve/ZFrhW3S67CpAUN1FdQxQxjiBxnIzU9WuIwthkNgrTbbTY6mKBqk3PBpyJN2YmLQBstzjb3D2IVG3Sj0bjuJLIRgBunHFOkm0B-FzPZZJwsmPuN0NLRtrtO_dV7mC-pTGMrQEFpIzv8_7pmkVXqw7ro5jk2yPPsXSgz0uPzKuZeLBIyiLoRAJ4ltE35lRuoyNjbEsNIThlAoNi-8eGaS_jFmqRD4xi9wMlpXSXr2tMqgvpRBjhWKIj2OSh03ZupjuSADYrE3V6VuYOMuyIY5Y-gXK-PEtDpqrYK_ojP3iyoYJcUUqXfS5gVXXv8D4SSx2f6P0SkIrUsQUU_6n4XynaOTu24RbGDOG08qQUQ/FILMESONGRATIS.COM+-+Harry+Potter+e+as+Rel%C3%ADquias+da+Morte+-+Parte+1+%282010%29.mp4?stream=1
-
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BYjhiMGRiNzYtOGU5ZS00M2NjLWEyY2QtNmFkMTU4YTJjYjJmXkEyXkFqcGdeQXVyOTQxNzM2MjY@._V1_.jpg" group-title="Filmes", Harry Potter e as Relíquias da Morte: Parte 2
-https://861138007.tapecontent.net/radosgw/yBxM9QQdpBS1Ya9/jtIE8DjpKmC6p3a5BRPWD-1KPQvpBJMuUre2NNy3IIYdfrr8z7bf97aWTpSrymfgE7vyU4hji_acgy_j1qDtKc9GhUEl31xySj3sI-CrZjSlqbhGHN1WJnP0AxZolCxDN_HPBQGipOQcl988I8ONtWK3W7lhrSMc1XmaFLmEa0bM8zUiRsuJZQGHhESv_rEZoTGyS-NZL0oysxIA-jYDb0SE1ZgG24vPnPRy3zk0L2XgvtN_33u6t_R-S74XJX9yAHucctO-TSu0z0kVKzv2uaPGrVi7hpBY44veOF_HRv8NU-sBZj6yIyiXUwexk7wnO88itoVW5J-JLue-HSkzg0VOxeFl7dgok3kV-A/FILMESONGRATIS.COM+-+Harry+Potter+e+as+Rel%C3%ADquias+da+Morte+-+Parte+2+%282010%29.mp4?stream=1
-
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BNGNiNWQ5M2MtNGI0OC00MDA2LWI5NzEtMmZiYjVjMDEyOWYzXkEyXkFqcGdeQXVyMjM4NTM5NDY@._V1_.jpg" group-title="Romance", A Forma da Água
-https://antica.evosrv.com/EvoSrv/L2jiAeYuWQb0SX10VEHX.mp4?md5=XBMYBPZM4bA_4C9kf3Sn8A&expires=1637366510
-
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMTYxOTQ1MzI0Nl5BMl5BanBnXkFtZTgwMzgwMzIxNDM@._V1_.jpg" group-title="Romance", Cinquenta Tons de Liberdade
-https://vilea.evosrv.com/EvoStreams/ypO9PgKKjpVr5Vb40tPW.mp4.mp4?md5=DwrxB8rif0dG1hWJ_8Ztug&expires=1637366769
-
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BOGUwMjk3YzktNDI0Yy00MzFiLWFjNmEtYTA2ODVjMzNhODhjXkEyXkFqcGdeQXVyOTQ1MDI4MzY@._V1_.jpg" group-title="Romance", After (2019)
-https://snow.evosrv.com/EvoStreams/KIBu7OWzbjnmSBsnZgv8.mp4.mp4?md5=uIukiDZqJnArYzMsGs2Ygw&expires=1637366995
-
-#EXTINF:-1 tvg-logo="https://i1.wp.com/filmesongratis.com/wp-content/uploads/2021/11/Titanic-1997-214x300.jpg" group-title="Romance", Titanic (1997)
-https://861634696.tapecontent.net/radosgw/84LMpLLokzUjmL/wR74OC9mtfnCebKw25alFsSFT2riUtCfsQc2kSNL_xWYtT6vF9HLN11n08KWidqNqA4qY8ZOAelUxmn8VXE7-7UCwTbTDOoa_8WqR2oIU3DAkFD9plu758iWvPB24eapYV4_JCbCfwGpDJvLyM4A8EOuHn2zOfuf7OcqW6dp4fVHKbuJrfvjNe371fdVp8Gzl-qBCtF-xpbfz6Gt4zOe6LEHMdv8I6hMqTxDknt7HA84pyrrkmFoN2fcmBHg83yr8i2yTRFyepn-CQdAPzESXcdQKaMwthFJnGddnL4UsSz2LMYfRTWZGd7hLvaVqvZnOcHUMGcOQQx-FMNm/FILMESONGRATIS.COM+-+Titanic+%281997%29.mp4?stream=1
-
-#EXTINF:-1 tvg-logo="https://i1.wp.com/filmesongratis.com/wp-content/uploads/2021/09/cinderela-214x300.jpg" group-title="Romance", Cinderela (2021)
-https://xaia.evosrv.com/EvoStreams/SNIlZuAxWOQPCGahiSdQ.mp4.mp4?md5=9Ih-y5ho8pKsHP9KmbjrRQ&expires=1637368203
-
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BOGU3NTFmNjYtODc3Ny00MWEzLWI3M2ItZjE3NDgwMTI0MzkzXkEyXkFqcGdeQXVyMTEyMjM2NDc2._V1_.jpg" group-title="Ação e Aventura", Monster Hunter(2021)
-https://vilea.evosrv.com/EvoStreams/utMwGq1cr49LULN3jk8R.mp4.mp4?md5=CwOOCnBwQpu15hutirfzaA&expires=1637368522
-
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BY2ZlNWIxODMtN2YwZi00ZjNmLWIyN2UtZTFkYmZkNDQyNTAyXkEyXkFqcGdeQXVyODkzNTgxMDg@._V1_.jpg" group-title="Ação e Aventura", Mortal Combate (2021)
-https://muna.evosrv.com/EvoSrv/XQxa71Bpfh5Jgo0h8CXG.mp4?md5=RmRns7Vu-qzEY1dC7UtbAg&expires=1637368802
-
-#EXTINF:-1 tvg-logo="https://i1.wp.com/filmesongratis.com/wp-content/uploads/2021/11/Depois-da-Terra-2013-214x300.jpg" group-title="Aventura e Ficção Científica", Depois da Terra (2013)
-https://868419159.tapecontent.net/radosgw/1703oXwO1qfewv1/b10xHE7QaakyrcGw9SFugHV3743Vcx9EFQbkeog5yJTd4MaHp9Bj8FeNrJ3SKF6ouRnmYsLEbp5_UFeAvrzcKl7q_ktycM31QUBRsaqTMffyT23VI0jxrHxK1cz6jQEWc67djg4-8bkXRsLtOasbMXWEU2sVqSor6Ljuq5hd4AWT8S0kkuzQ666RbAOMOcxDC5h_wHYrIjZQ2ImXikDOBQaU3hbUUKj6Na0chtnucvHW2NLDEBsSaw-CGWc28fXG8UdRZ0rXXa-cucCRt9FkHG0urf2ByMkC8dtK732ID5cZTJe2U34OWF6KWFHYofs0Mj5twUyJ3NTpwzUq/FILMESONGRATIS.COM+-+Depois+da+Terra+-+Filme+2013.mp4?stream=1
-
-#EXTINF:-1 tvg-logo="https://i1.wp.com/filmesongratis.com/wp-content/uploads/2021/11/Guerra-dos-Mundos-2005-214x300.jpg" group-title="Aventura e Ficção Científica", Guerra dos Mundos (2005)
-https://860134103.tapecontent.net/radosgw/VWmrkYK1WgIKlQp/Tae_-S_sZLT2Omkuy0qh2CczJ4RnEP0BNfA_7aFjEbEDzJHl0yXYw6YX5lx4hgoCLTfdVVG5RnxweZLmKKgMyXGlSfpkfd0zQJ7URTAfEgnsaJM2hrFrBfYuD9S2_LkbrnDGI9NdPfdBHnHj9h6rcDuKbOXpiqnYw8ND7g5NEMt-QC9a6nG2JHUPF7ZCD3s10PfJhOdS_FgMO2WXHra0Lljpv0gawB9E8j0TuDUNHfvQ965BnpbtVJTuXpqNooPLFMOa24S--tbPw9ogEYdx0fYb1LTD_AyMODhNC0BbcSe2Iq2b9AcHonXLCbpZJdq2Num6sw1ncMViLhit/FILMESONGRATIS.COM+-+Guerra+dos+Mundos.mkv.mp4?stream=1
-
-#EXTINF:-1 tvg-logo="https://i1.wp.com/filmesongratis.com/wp-content/uploads/2021/11/Perdido-Em-marte-2015-214x300.jpg" group-title="Aventura e Ficção Científica", Perdido Em marte (2015)
-https://868418831.tapecontent.net/radosgw/qyLOrB9AjwUKyA/kNBMOK0-JRsAiwYDGdQqtRKuzIpNMQVrye5v6eBhIbOmyAMUM1hUX_szo-Dau7ImtUWtkg63bF46Wd_JEQyBzsGclNptbf9eMKdNANcsKI1Gs0FaFV8sHWdePR1_TdK10PVxJDilrp9DRLlbnBbEPCPDXlhzBJWw2xbs4YOmN0T_DEXk7mnYPnNszJFPygxKKAPw0tG58nS1jc8KnZpsGCJRr6-_NljgwdKO2ASjhTUwKK6Vb9YC81xkFSXSkanhpqCUmohE5XOEd8HgHtlYK4ua6MLLYnExgUvG4YyYOAsJ1j5n6iioBfsA_6E8125yhfE9fHfoU9f5B0eI/FILMESONGRATIS.COM+-+Perdido+Em+marte+%282015%29.mp4?stream=1
-
-#EXTINF:-1 tvg-logo="https://i1.wp.com/filmesongratis.com/wp-content/uploads/2021/11/A-Origem-2010-214x300.jpg" group-title="Aventura e Ficção Científica", A  Origem (2010)
-https://908472157.tapecontent.net/radosgw/XxPmoLj3KXfgv1/BDQO3f0OxIHXq5ZNFDLq0d5i1QVmfyN0DIbQl2-ea2Sx36Qk8L3NaLqtB39xL5qTpLMkyUCrDrUPjeTyewNVr3qI51Jg0M2b0ObC2EDkwJ5bLNK2WKpK3Vjom-GkhhQNO7MTSw45OZILBEQAS7luGHyQm_QMTaRByojL-JTXD3lpd1MisM244T5FQzRKBxj6LNzu1qimswS-lvBoBP-XFXul3hQ5lhPzbW6xss_ObtyQc0uCA2eiXmOdoU1n2DFy7KKgi-AHV7yidmmBjh1KdZIF7b64RylG_pgMgHrbmDHEdi3ilaDjPK-Sa5A/FILMESONGRATIS.COM+-+A+Origem+%282010%29.mp4?stream=1
-
-#EXTINF:-1 tvg-logo="https://i1.wp.com/filmesongratis.com/wp-content/uploads/2021/11/Eu-Sou-a-Lenda-2007-214x300.jpg" group-title="Aventura e Ficção Científica", Eu Sou a Lenda (2007)
-https://2448424524.tapecontent.net/radosgw/AQ89qRR1kbfmlw/hBQDo0KHQjqbZ4BlA5DnefCSmQgjEbBy9op3a-gDiCYkeZGiu4N0qvMEZ7imZlm6TLhBKuu0KoNsl7xQ7bmt0ayh0IMc-msAfQu1Uk_ArWx9_DRYgRWLH1rc0mBZdqzF_SzWZbWWmTpCOKzhswtgT_4GGYKs3o2fVk1qAV6q8sfIIGpN-rwnj2m0NOqc1isgeDKuwIC9r5dobeyJcrRHOP_al0fCJW43iQsdk0lgDzqVGuQ8H2N5cPXnGg-HrOEE_l_wJj_uZ-vaSbBUc_TmEbhVzG7tGptk82jGNHWSUyWWQsLmaOvDwkX0jGP61bUhgcZO66CkVbTFxx-1/FILMESONGRATIS.COM+-+Eu+Sou+a+Lenda+%282007%29.mp4?stream=1
-
-#EXTINF:-1 tvg-logo="https://i1.wp.com/filmesongratis.com/wp-content/uploads/2021/11/Resident-Evil-6-O-Capitulo-Final-Filme-2016-214x300.jpg" group-title="Terror", Resident Evil 6 – O Capítulo Final (2016)
-https://861476182.tapecontent.net/radosgw/0ZWQXAOGP1tKlA/f3blyiWWR_bjZ5BaF5wiZuHYCMYcH-tsw6gVanWKwgzCA1KbeL1P-fSkqnGijCeikzbV1VUn67YPxbcx3mRT6XsFZ1vNYMovEAQUYu3pn8R70imJ6GoFitPZN6cJCOjpj9C240zEHTJN8eYOJpygA-pvPPDbnzjD9en8xMvJKlqZsGIhUHS83Y2cy-8Xty2Lz10vmAsO1Dn5Ir34aBKpxqMI4-QPIOHoJcvtIzfZnXhwfebWPeXLh9kqK8a3OH5fHPBS-WaPEXbX6BhuFRZpMYbAp0T3ZGSwd-xQKM24zjrwXkM3YCx_lX8uzxcWaEtztbx0wwOtzYwNRpkqQaTMYTflQMzCpNdh3Hh7Tw/FILMESONGRATIS.COM+-+Resident.Evil.6.O.Cap%C3%ADtulo.Final.2017.mkv.mp4?stream=1
-
-#EXTINF:-1 tvg-logo="https://i1.wp.com/filmesongratis.com/wp-content/uploads/2021/11/Resident-Evil-5-Retribuicao-2012-214x300.jpg" group-title="Terror", Resident Evil 5 – Retribuição (2012)
-https://2475155346.tapecontent.net/radosgw/3OmykrlrZ4tRV2/yblSk3Ym9CSCpEcBGGCB30hkyz-ZylQw0ZUvFZjDmszjWMGhRr_jpwESGIYRQMZPFwUNJMEbvnult8EU_n4QYke3M_1eTxNDrgdf-_lFXLjSziYP8QLLD_eA5NIw7C2je6n7NjdY0vrQaQDNeIJypTExrbd40kHQH5VHhV04PPbGXs6SQEcfi0OUubXzIi3qOfvlMNAp3hhyLQn7UYixzFdgw6lhRFqlGxWg7dfsKD2Wzx9BNPSADB-iYuFI2tE5WeXSZLB71re8fr-amgo90H4nEewlCWQ_sRVnVcOlLSw_NHV0ikjEQPk_U2xYElcS3IHJFtjoSolrca7p/FILMESONGRATIS.COM+-+Resident.Evil.5.Retribuicao.2012.mkv.mp4?-stream=1
-
-#EXTINF:-1 tvg-logo="https://i1.wp.com/filmesongratis.com/wp-content/uploads/2021/11/Resident-Evil-4-Recomeco-2010-214x300.jpg" group-title="Terror", Resident Evil 4 – Recomeço (2010)
-https://860713988.tapecontent.net/radosgw/L1a3wZ0DZXTRoMG/2UPm7q1-Ab9Zrlr6H7QLyJLnrpITbA_jpqfdlmUFEpPoTzCqlNNoQzIOfRKCuehlvJdo90TsT4JaIm98OtHKHcJNjoXS2xAmyjzHRlYkUnMdE2jte3mwuXTezdRZAAkVXaFoIdre5oy01BQX1x31-tEHybmd8LcSwW2qGXHo7I-SpwPL_zuYprx56txHgNx6dhC9PgV7vqK_crS_V7Ia71TmvwEfI8sqn_eR8jSvyEArC_TfugUT0m3GBQrLalV7eITBo8BY_YVBKk0AMyaWgcAFI3Eyg5lIi5vOqeSvcem0daFAe6G35PKt89yenBoc4BsyipXo91VJiv7k/FILMESONGRATIS.COM+-+Resident.Evil.4.Recomeco.2010.mkv.mp4?stream=1
-
-#EXTINF:-1 tvg-logo="https://i1.wp.com/filmesongratis.com/wp-content/uploads/2021/11/Resident-Evil-3-A-Extincao-Filme-2007-214x300.jpg" group-title="Terror", Resident Evil 3 – A Extinção (2007)
-https://861658543.tapecontent.net/radosgw/aydPo98kOXIxjGm/tE7eI2izMBRRMs8Zayf9dMRXtG6nAR8cBanG5jE0-f55WD_zPpqY4UFvlihYjuRjWrZW9sjNWn591e-Y-08IEGd5oKjKWWvqtnq5BaW0EPNsdVPXH2mXvil0CgNYVsDtnpCds9uRw8i0nK06UL6TLgHOjNRa_IoCrpzZdSxCvf1_noIiIDkqBHPOJXje5yJ_bGs9-qg6nmfrT48tnCC-V-pcbUqOLDGSP-cUlWxxh0n1fukwEn8acXrNU90CDaQ_UTciE1-O5Zuj_cvEcGXLw6Uclcbr7-8hkuCHaiY3lWR3F50r40XFaV6sTOSROIUjeGb8J5dr0IjsYbFt/FILMESONGRATIS.COM+-+Resident.Evil.3.A.Extincao.2007.mkv.mp4?stream=1
-
-#EXTINF:-1 tvg-logo="https://i1.wp.com/filmesongratis.com/wp-content/uploads/2021/11/Resident-Evil-2-Apocalipse-2004-214x300.jpg" group-title="Terror", Resident Evil 2 – Apocalipse (2004)
-https://908371221.tapecontent.net/radosgw/QD8oBk3ajgskg8/Zwas0HGRz1oc9wW_sVv0hWkSUThqwIdr7WAfalMON5sI1RyrrGD47uhbrKKAjw5_FAShD-OVLp0hclESBIbz5TC_KhReqkW0BQeulUAsxWvXc3M9mwB7Dm-0SS04mgwOHMzvYs_EmB_P4emIE8PlL01h4KIjNpfCDWI1BXvdooaleWjSQWK-C-Gn7wy6VwOwVhl3X3LaEqxvi-AJFgyxJ_pXjO99f28ErqE1otZIO3zp8d7DRXVSIaNunCD4pDsCYcd86e30Ut8JOBfGivEY1IKBsmKGkU7FROvECp3N_VTSp8Rm6nstI7QiRhvM6wgTu_lHcaRmZHFPzNsD/FILMESONGRATIS.COM+-+Resident.Evil.2.Apocalipse.2004.mkv.mp4?stream=1
-
-#EXTINF:-1 tvg-logo="https://i1.wp.com/filmesongratis.com/wp-content/uploads/2021/11/Resident-Evil-O-Hospede-Maldito-2002-214x300.jpg" group-title="Terror", Resident Evil – O Hóspede Maldito (2002)
-https://872373798.tapecontent.net/radosgw/B7axY3GRy8Uy1oz/t9chNW_RgY01OtNsd5LjeU7F6b-rbRAM6_Cq00OPkY3RDJYKzM_wVQ0V9eilsM_wEDv_eQ3vumj7wuWHkJVWPk5X3SdJBKDjFIsMeIQMONYk1_69I2iW6TcB18hTasjuSryjnVbV3XVgCJRoMqtgPEEyM7-obDlf7v8QBsvcX17FkCzFnw-08jwIvM2bAKhlTfXLvMXrLfRj8Xf8msoFzkNv78bpg6MhJ2pE_xcGNvl1vfB1KJL0eoRf-wWPMbbfize8um8w8-hznO6inalbA3TV0maL36M7B9NL7I1c8F5isiAu8GRjOLfFWYgPcgkhIv9qCklUJ87VJce2H7Hsz3F4VxZe_2k-vJH3ow/FILMESONGRATIS.COM+-+Resident+Evil+1+-+O+H%C3%B3spede+Maldito.mp4?stream=1
-
-#EXTINF:-1 tvg-logo="https://i1.wp.com/filmesongratis.com/wp-content/uploads/2021/11/Para-Todos-os-Garotos-que-Ja-Amei-2018-214x300.jpg" group-title="Romance", Para Todos os Garotos que Já Amei (2018)
-https://bit.ly/3ctr6eH
-
-#EXTINF:-1 tvg-logo="https://assistirfilmesonlinehd12.com/wp-content/uploads/2020/07/tGsD7kCegBuI9MPCQvFsOUe26V2-185x278.jpg" group-title="Lançamentos", Coração de Dragão Vingança (2020)
-https://www.googleapis.com/drive/v3/files/18lPdxJLO3ROk5zLSent5q2KFIkkAp1by?alt=media&key=AIzaSyB7zJPlzAnGqOyznqKMfcg9f05ciTXHtkw
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w342/h5UzYZquMwO9FVn15R2eK2itmHu.jpg" group-title="Lançamentos", Venom Tempo de Carnificina
+https://www.googleapis.com/drive/v3/files/1NO7AuX7s1K2T2ieww_oJu7WN9Y3AIpEW?alt=media&key=AIzaSyD7IZii6I0bsF2K3y0bDTsKf5E-rBWcVBM
